@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Samsung Remote Test Lab</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #000;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    h1 {
+      color: white;
+      font-family: sans-serif;
+      font-size: 1.4rem;
+      margin: 1rem 0;
+    }
+    iframe {
+      border: none;
+      width: 95vw;
+      height: 85vh;
+      border-radius: 10px;
+    }
+    .error {
+      color: #ff6b6b;
+      font-family: monospace;
+      text-align: center;
+      margin-top: 2rem;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Samsung Remote Test Lab (Embedded)</h1>
 
+  <iframe 
+    src="https://developer.samsung.com/remotetestlab/devices"
+    id="samsungFrame"
+    onerror="showError()"
+  ></iframe>
+
+  <div id="errorMsg" class="error" style="display:none;">
+    ⚠️ Sorry! Samsung’s site can’t be embedded directly because of their security settings.<br>
+    <a href="https://developer.samsung.com/remotetestlab/devices" target="_blank" style="color:#4ea5ff;">Click here to open it in a new tab instead.</a>
+  </div>
+
+  <script>
+    const frame = document.getElementById("samsungFrame");
+    frame.addEventListener("load", () => {
+      try {
+        frame.contentWindow.document;
+      } catch (err) {
+        showError();
+      }
+    });
+
+    function showError() {
+      frame.style.display = "none";
+      document.getElementById("errorMsg").style.display = "block";
+    }
+  </script>
+</body>
+</html>
