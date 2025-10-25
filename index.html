@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>skib dib</title>
-
-  <link rel="stylesheet" href="style.css">
   <style>
     body {
       font-family: sans-serif;
@@ -14,13 +12,32 @@
       padding: 2rem;
       margin: 0;
     }
-    header { text-align: center; margin-bottom: 1.5rem; }
-    h1 { font-size: 2rem; margin: 0 0 0.3rem 0; }
-    p { color: #ccc; margin: 0; }
-    a { color: #4ea5ff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul { list-style: none; padding-left: 0; }
-    li { margin: 0.4rem 0; }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 0.3rem 0;
+    }
+    p {
+      color: #ccc;
+      margin: 0;
+    }
+    a {
+      color: #4ea5ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 0.4rem 0;
+    }
     .folder {
       margin-top: 1rem;
       padding: 0.6rem;
@@ -66,14 +83,9 @@
           li.innerHTML = `
             <strong>📂 ${folder}</strong>
             <ul>
-              ${contents.map(f => {
-                // 👇 NEW PART: if it’s project1/index.html, open Samsung page in new tab
-                if (folder === "project1" && f === "index.html") {
-                  return `<li><a href="https://developer.samsung.com/remotetestlab/devices" target="_blank">${f}</a></li>`;
-                }
-                // normal link for everything else
-                return `<li><a href="./${folder}/${f}">${f}</a></li>`;
-              }).join("")}
+              ${contents.map(f => `
+                <li><a href="./${folder}/${f}">${f}</a></li>
+              `).join("")}
             </ul>`;
           container.appendChild(li);
         }
