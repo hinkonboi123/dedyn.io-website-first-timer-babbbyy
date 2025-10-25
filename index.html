@@ -1,1 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>skib dib</title>
 
+  <!-- Optional external CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #0e0e0e;
+      color: #f0f0f0;
+      padding: 2rem;
+      margin: 0;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 0.3rem 0;
+    }
+    p {
+      color: #ccc;
+      margin: 0;
+    }
+    a {
+      color: #4ea5ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 0.4rem 0;
+    }
+    .folder {
+      margin-top: 1rem;
+      padding: 0.6rem;
+      background: rgba(255,255,255,0.03);
+      border-radius: 6px;
+    }
+    .folder strong {
+      display: block;
+      margin-bottom: 0.4rem;
+    }
+    #loading {
+      text-align: center;
+      margin-top: 2rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>directory list</h1>
+    <p>your such a goooodddd boooooooooyyy 😎</p>
+  </header>
+
+  <main>
+    <h2>📁 My Directory</h2>
+    <div id="loading">Loading directory...</div>
+    <ul id="fileList" style="display:none;"></ul>
+  </main>
+
+  <script>
+    async function loadDirectory() {
+      try {
+        const response = await fetch('data.json');
+        if (!response.ok) throw new Error("JSON not found");
+        const files = await response.json();
+        const container = document.getElementById("fileList");
+        document.getElementById("loading").style.display = "none";
+        container.style.display = "block";
+
+        for (const [folder, contents] of Object.entries(files)) {
+          const li = document.createElement("li");
+          li.className = "folder";
+          li.innerHTML = `
+            <strong>📂 ${folder}</strong>
+            <ul>
+              ${contents.map(f => `
+                <li><a href="./${folder}/${f}">${f}</a></li>
+              `).join("")}
+            </ul>`;
+          container.appendChild(li);
+        }
+      } catch (err) {
+        document.getElementById("loading").innerText = "❌ Failed to load directory.";
+        console.error("Error loading directory:", err);
+      }
+    }
+
+    loadDirectory();
+  </script>
+</body>
+</html>
