@@ -1,0 +1,5 @@
+{
+  "project1": ["index.html", "about.html"],
+  "project2": ["index.html", "readme.txt"],
+  "notes": ["todo.txt", "plan.docx"]
+}
