@@ -1,4 +1,5 @@
 {
-  "subwaysurfers": ["index.html"],
+  "project1": ["index.html"]
+  "subwaysurfers": ["subwaysurfers.html"],
   "blockpost": ["index.html"]
 }
