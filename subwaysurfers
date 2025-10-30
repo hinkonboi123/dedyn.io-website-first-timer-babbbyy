@@ -1,0 +1,1977 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+
+<!-- Title and Description -->
+<title>Subway Surfers</title>
+<meta name="description" content="skibidi.com/gms">
+
+<!-- Core Meta Tags -->
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://tops.games/game/subway-surfers">
+
+<!-- Date Meta Tags -->
+<meta property="article:published_time" content="2025-10-25T16:24:37+00:00">
+<meta name="date" content="2025-10-25">
+
+<meta property="article:modified_time" content="2025-10-30T22:29:28+00:00">
+<meta http-equiv="last-modified" content="Thu, 30 Oct 2025 22:29:28 +0000">
+
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+
+<!-- Theme -->
+<meta name="theme-color" content="#6842ff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tops.Games">
+
+<!-- Performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+
+<!-- Open Graph -->
+<meta property="og:type" content="game">
+<meta property="og:site_name" content="skibidi.com/gms">
+<meta property="og:title" content="skibidi.com/gms">
+<meta property="og:description" content="skibidi.com/gms">
+<meta property="og:url" content="https://tops.games/game/subway-surfers">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg">
+<meta property="og:image:alt" content="skibidi.com/gms">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="900">
+<meta property="og:image:type" content="image/jpg">
+
+<meta property="article:author" content="skibidi.com/gms">
+<meta property="article:section" content="skibidi.com/gms">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="skibidi.com/gms">
+<meta name="twitter:description" content="skibidi.com/gms">
+<meta name="twitter:image" content="https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg">
+<meta name="twitter:site" content="skibidi.com/gms">
+<meta name="twitter:creator" content="skibidi.com/gms">
+<meta name="twitter:image:alt" content="skibidi.com/gms">
+
+<!-- Schema.org JSON-LD -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://tops.games#organization",
+    "name": "Tops.Games",
+    "legalName": "Tops.Games",
+    "url": "https://tops.games",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://tops.games/logo.png",
+        "width": 512,
+        "height": 512,
+        "caption": "Tops.Games Logo"
+    },
+    "description": "Play the best free online games at Tops.Games! Discover action, puzzle, racing, and multiplayer hits with no downloads\u2014fun for kids and gamers of all ages.",
+    "slogan": "Play Free Online Games Instantly",
+    "email": "admin@tops.games",
+    "sameAs": [],
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "admin@tops.games",
+        "availableLanguage": "en",
+        "areaServed": "Worldwide"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://tops.games#website",
+    "name": "Tops.Games",
+    "url": "https://tops.games",
+    "description": "Play the best free online games at Tops.Games! Discover action, puzzle, racing, and multiplayer hits with no downloads\u2014fun for kids and gamers of all ages.",
+    "inLanguage": "en",
+    "isAccessibleForFree": true,
+    "isFamilyFriendly": true,
+    "publisher": {
+        "@id": "https://tops.games#organization"
+    },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://tops.games/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "skibidi.com/gms",
+    "description": "skibidi.com/gms",
+    "url": "https://tops.games/game/subway-surfers",
+    "inLanguage": "en",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": "Tops.Games",
+        "url": "https://tops.games"
+    },
+    "author": {
+        "@id": "https://tops.games#organization"
+    },
+    "publisher": {
+        "@id": "https://tops.games#organization"
+    },
+    "datePublished": "2025-10-30T23:30:05+00:00",
+    "dateModified": "2025-10-30T23:30:05+00:00",
+    "isFamilyFriendly": true,
+    "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg",
+        "caption": "skibidi.com/gms"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "name": "skibidi.com/gms",
+    "alternateName": [
+        "skibidi.com/gms",
+        "skibidi.com/gms",
+        "skibidi.com/gms"
+    ],
+    "description": "skibidi.com/gms",
+    "url": "https://tops.games/game/subway-surfers",
+    "identifier": [
+        {
+            "@type": "PropertyValue",
+            "name": "game_id",
+            "value": "161"
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "slug",
+            "value": "subway-surfers"
+        }
+    ],
+    "publisher": {
+        "@id": "https://tops.games#organization"
+    },
+    "author": {
+        "@id": "https://tops.games#organization"
+    },
+    "creator": {
+        "@id": "https://tops.games#organization"
+    },
+    "gamePlatform": [
+        "Web Browser",
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS",
+        "Android"
+    ],
+    "applicationCategory": "Game",
+    "applicationSubCategory": "Adventure",
+    "operatingSystem": [
+        "Web Browser",
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS",
+        "Android"
+    ],
+    "softwareRequirements": "Modern web browser with JavaScript enabled, HTML5 support",
+    "genre": [
+        "Adventure",
+        "New",
+        "Featured",
+        "unblocked",
+        "Browser Game",
+        "Free Game",
+        "Online Game"
+    ],
+    "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Gamers",
+        "suggestedMinAge": 3,
+        "suggestedMaxAge": 99
+    },
+    "gameItem": [
+        {
+            "@type": "Thing",
+            "name": "Free to Play"
+        },
+        {
+            "@type": "Thing",
+            "name": "No Download Required"
+        },
+        {
+            "@type": "Thing",
+            "name": "Browser Compatible"
+        },
+        {
+            "@type": "Thing",
+            "name": "Mobile Friendly"
+        },
+        {
+            "@type": "Thing",
+            "name": "Adventure Genre"
+        }
+    ],
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": {
+                "@type": "PlayAction"
+            },
+            "userInteractionCount": 1829,
+            "description": "Total game plays"
+        }
+    ],
+    "contentRating": "ESRB_T",
+    "isFamilyFriendly": true,
+    "isAccessibleForFree": true,
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-10-30T23:30:05+00:00",
+        "category": "Free Game"
+    },
+    "playMode": [
+        "SinglePlayer"
+    ],
+    "numberOfPlayers": {
+        "@type": "QuantitativeValue",
+        "minValue": 1,
+        "maxValue": 1
+    },
+    "datePublished": "2025-10-30T23:30:05+00:00",
+    "dateModified": "2025-10-30T23:30:05+00:00",
+    "keywords": "Adventure, Adventure Games, New, Featured, unblocked, parkour, Endless Runner, Subway Surfers Online, SYBO Games, Subway Surfers, SYBO, No-Download, kids game, mobile-compatible, free browser game, action game, subway surfers tips, subway surfers multiplayer, best subway surfers character, Free Online Game, Browser Game, HTML5 Game",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg",
+        "width": 1200,
+        "height": 900,
+        "encodingFormat": "image/jpg",
+        "caption": "Play Subway Surfers"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Subway Surfers",
+    "description": "Play Subway Surfers online free in your browser. Master endless runner gameplay with expert tips, character guides, and advanced strategies.",
+    "url": "https://tops.games/game/subway-surfers",
+    "applicationCategory": "GameApplication",
+    "operatingSystem": [
+        "Web Browser",
+        "Windows",
+        "macOS",
+        "Linux",
+        "iOS",
+        "Android"
+    ],
+    "softwareRequirements": "Modern web browser with JavaScript enabled",
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-10-30T23:30:05+00:00",
+        "category": "Free Game"
+    },
+    "publisher": {
+        "@id": "https://tops.games#organization"
+    },
+    "datePublished": "2025-10-30T23:30:05+00:00",
+    "dateModified": "2025-10-30T23:30:05+00:00"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ImageObject",
+    "url": "https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg",
+    "caption": "Play Subway Surfers",
+    "description": "High-quality screenshot of Subway Surfers",
+    "contentUrl": "https://tops.games/uploads/thumbnails/s/subway-surfers_retina.jpg",
+    "encodingFormat": "image/jpg",
+    "width": 1200,
+    "height": 900,
+    "creator": {
+        "@id": "https://tops.games#organization"
+    },
+    "uploadDate": "2025-10-30T23:30:05+00:00"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is Subway Surfers safe for kids?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Subway Surfers is rated for ages 4+ and contains no violence, profanity, or inappropriate content. The game features colorful graphics, cartoon-style characters, and family-friendly gameplay that appeals to children while remaining engaging for adults.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I play Subway Surfers offline?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The browser version requires an internet connection for optimal performance, though some offline functionality may be available. Mobile versions offer limited offline play, but online connectivity is recommended for accessing leaderboards and events.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the best characters for beginners?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jake (the default character) and Tricky are excellent for beginners due to their balanced stats. These characters have no special abilities that complicate gameplay, allowing new players to focus on mastering core mechanics before exploring advanced character abilities.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How do I earn coins without spending money?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Collect coins during gameplay runs, complete daily challenges, and participate in special events. Mystery boxes occasionally offer free coins, and consistent play with multiplier power-ups significantly increases coin accumulation without requiring purchases.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What's the difference between coins and keys?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coins are earned through gameplay and used for cosmetic purchases and character unlocks. Keys are premium currency obtained through spending real money or rare rewards, used for exclusive items and revives during runs.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How often do new worlds and characters release?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Subway Surfers typically releases new themed worlds monthly, often tied to seasonal events, holidays, or cultural celebrations. New characters debut regularly alongside world updates, keeping the game fresh with limited-edition content.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I play Subway Surfers on any device?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Subway Surfers is available on iOS, Android, and web browsers. The browser version works on Windows, Mac, and Linux computers, with optimized performance across most modern devices and screen sizes.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What causes lag in the browser version?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lag typically results from insufficient system resources, outdated browsers, or poor internet connections. Close unnecessary tabs, update your browser, and ensure stable internet connectivity for smooth gameplay performance.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are there cheats or hacks available?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While cheats exist, using them violates terms of service and risks account suspension. The game is designed for fair competition, and legitimate progression through skill development provides the most rewarding experience.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How do multiplier power-ups work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiplier power-ups increase your score by a set factor (2x, 3x, 5x, etc.) for a limited duration. Collecting multiple multipliers stacks their effects exponentially, dramatically boosting your final score during extended runs.",
+                "author": {
+                    "@id": "https://tops.games#organization"
+                }
+            }
+        }
+    ],
+    "about": {
+        "@type": "VideoGame",
+        "name": "Subway Surfers"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to Play Subway Surfers",
+    "description": "Step-by-step guide to playing Subway Surfers",
+    "step": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Step 1: Access the Game",
+            "text": "Open your web browser and navigate to the Subway Surfers online platform. Ensure you have a stable internet connection and that your browser is updated to the latest version. The game loads automatically without requiring downloads or installations, making it instantly accessible from any device.",
+            "url": "https://tops.games/game/subway-surfers#step-1"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Step 2: Select Your Character",
+            "text": "Choose your preferred character from the available roster. Each character has unique visual styles and potential stat variations. Beginners should start with Jake or Tricky for balanced gameplay, while experienced players can experiment with characters offering specialized abilities.",
+            "url": "https://tops.games/game/subway-surfers#step-2"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Step 3: Master Basic Controls",
+            "text": "Learn the fundamental controls: use arrow keys or WASD to move left/right, spacebar to jump, and swipe gestures on mobile. Practice timing your jumps to avoid obstacles and trains. Spend your first few runs focusing on control mastery rather than score optimization.",
+            "url": "https://tops.games/game/subway-surfers#step-3"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Step 4: Collect Power-Ups Strategically",
+            "text": "Identify and prioritize power-ups during gameplay: grab multipliers first for score boosting, collect hoverboards for invulnerability, and use magnets to auto-collect coins. Understanding power-up locations and timing their collection maximizes your scoring potential significantly.",
+            "url": "https://tops.games/game/subway-surfers#step-4"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Step 5: Navigate Environmental Hazards",
+            "text": "Learn obstacle patterns specific to each world location. Trains appear predictably, barriers require precise jumping, and tunnels demand quick reflexes. Study each environment's unique challenges and develop location-specific strategies for consistent high-score runs.",
+            "url": "https://tops.games/game/subway-surfers#step-5"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Step 6: Manage Your Resources",
+            "text": "Accumulate coins through gameplay to unlock characters and cosmetics. Save premium keys for exclusive items or emergency revives. Balance spending on character unlocks with maintaining a reserve for special limited-time events and seasonal content.",
+            "url": "https://tops.games/game/subway-surfers#step-6"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Step 7: Compete on Leaderboards",
+            "text": "Submit your best scores to global and friend leaderboards. Track your progress against other players and identify areas for improvement. Participate in weekly challenges and special events for bonus rewards and competitive recognition.",
+            "url": "https://tops.games/game/subway-surfers#step-7"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "name": "Step 8: Optimize Your Gameplay",
+            "text": "Implement advanced techniques: practice frame-perfect jumps, master multiplier stacking, and develop location-specific strategies. Study top player techniques through community resources and continuously refine your approach for progressive score improvements.",
+            "url": "https://tops.games/game/subway-surfers#step-8"
+        }
+    ]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://tops.games/",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Adventure",
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://tops.games/c/adventure",
+                "name": "Adventure"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Subway Surfers"
+        }
+    ],
+    "numberOfItems": 3
+}
+</script>
+
+<!-- Critical CSS -->
+<style>
+:root{--primary-bg:#0c0d14;--secondary-bg:#212233;--header-bg:rgba(33, 34, 51, 0.9);--accent-color:#6842ff;--border-color:#2f3148;--danger-color:#ff4757;--success-color:#1b8347;--warning-color:#ffa502;--text-light:#f9faff;--text-lighter:#a2a4ac;--text-medium:#bdbfce;--text-dark:#aaadbe;--text-accent:#a48eff;--sidebar-collapsed-width:60px;--sidebar-expanded-width:200px;--header-height:60px;--content-padding:8px;--border-radius:8px;--border-radius-large:12px;--border-radius-small:6px;--spacing-xs:4px;--spacing-sm:8px;--spacing-md:16px;--spacing-lg:24px;--spacing-xl:32px;--spacing-xxl:40px;--transition-standard:0.3s ease;--transition-fast:0.15s ease;--transition-slow:0.5s ease;--shadow-sm:0 2px 4px rgba(0, 0, 0, 0.1);--shadow-md:0 4px 8px rgba(0, 0, 0, 0.15);--shadow-lg:0 8px 16px rgba(0, 0, 0, 0.2);--shadow-xl:0 12px 24px rgba(0, 0, 0, 0.25);--shadow-accent:0 4px 12px rgba(104, 66, 255, 0.3);--z-dropdown:1000;--z-sticky:1020;--z-fixed:1030;--z-modal-backdrop:1040;--z-modal:1050;--z-popover:1060;--z-tooltip:1070;--z-toast:1080}*,::after,::before{box-sizing:border-box}*{margin:0;padding:0}html{font-size:16px;scroll-behavior:smooth}body{font-family:Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-size:14px;line-height:1.6;color:var(--text-medium);background-color:var(--primary-bg);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}h1,h2,h3,h4,h5,h6{font-weight:700;line-height:1.2;color:var(--text-light);margin-bottom:var(--spacing-sm)}h1{font-size:clamp(24px,4vw,32px)}h2{font-size:clamp(20px,3vw,24px)}h3{font-size:clamp(18px,2.5vw,20px)}h4{font-size:16px}h5{font-size:14px}h6{font-size:12px}p{margin-bottom:var(--spacing-md);line-height:1.6}a{color:var(--accent-color);text-decoration:none;transition:color var(--transition-standard)}a:hover{color:var(--text-accent)}table{width:100%;border-collapse:collapse;border-radius:8px;overflow:hidden;background-color:var(--primary-bg)}td,th{padding:12px 16px;border-bottom:1px solid #eee}th{font-weight:600;text-transform:uppercase;font-size:13px;letter-spacing:.5px}tr:hover{background:var(--border-color)}tr:last-child td{border-bottom:none}.visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}.text-center{text-align:center}.text-left{text-align:left}.text-right{text-align:right}.d-none{display:none!important}.d-block{display:block!important}.d-flex{display:flex!important}.d-grid{display:grid!important}.flex-center{display:flex;align-items:center;justify-content:center}.flex-between{display:flex;align-items:center;justify-content:space-between}.flex-wrap{flex-wrap:wrap}.flex-nowrap{flex-wrap:nowrap}.gap-xs{gap:var(--spacing-xs)}.gap-sm{gap:var(--spacing-sm)}.gap-md{gap:var(--spacing-md)}.gap-lg{gap:var(--spacing-lg)}.gap-xl{gap:var(--spacing-xl)}.mb-0{margin-bottom:0!important}.mb-sm{margin-bottom:var(--spacing-sm)!important}.mb-md{margin-bottom:var(--spacing-md)!important}.mb-lg{margin-bottom:var(--spacing-lg)!important}.mb-xl{margin-bottom:var(--spacing-xl)!important}.mt-0{margin-top:0!important}.mt-sm{margin-top:var(--spacing-sm)!important}.mt-md{margin-top:var(--spacing-md)!important}.mt-lg{margin-top:var(--spacing-lg)!important}.mt-xl{margin-top:var(--spacing-xl)!important}.border-radius{border-radius:var(--border-radius)}.border-radius-large{border-radius:var(--border-radius-large)}.border-radius-small{border-radius:var(--border-radius-small)}.btn{display:inline-flex;align-items:center;justify-content:center;gap:var(--spacing-sm);padding:10px 20px;border:none;border-radius:var(--border-radius);font-weight:600;font-size:14px;text-decoration:none;cursor:pointer;transition:all var(--transition-standard);white-space:nowrap;user-select:none;-webkit-tap-highlight-color:transparent}.btn:disabled{opacity:.6;cursor:not-allowed;pointer-events:none}.btn-primary{background:var(--accent-color);color:var(--text-light)}.btn-primary:hover{background:var(--text-accent);transform:translateY(-2px);box-shadow:var(--shadow-accent)}.btn-secondary{background:0 0;color:var(--text-medium);border:2px solid var(--border-color)}.btn-secondary:hover{border-color:var(--accent-color);color:var(--accent-color)}.btn-sm{padding:6px 12px;font-size:12px}.btn-lg{padding:14px 28px;font-size:16px}.card{background:var(--secondary-bg);border-radius:var(--border-radius-large);border:1px solid var(--border-color);overflow:hidden;transition:all var(--transition-standard)}.card:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}.card-header{padding:var(--spacing-lg);border-bottom:1px solid var(--border-color)}.card-body{padding:var(--spacing-lg)}.card-footer{padding:var(--spacing-lg);border-top:1px solid var(--border-color);background:rgba(255,255,255,.02)}.form-group{margin-bottom:var(--spacing-md)}.form-label{display:block;margin-bottom:var(--spacing-xs);color:var(--text-medium);font-weight:600;font-size:14px}.form-control{width:100%;padding:10px 14px;border:1px solid var(--border-color);border-radius:var(--border-radius);background:var(--primary-bg);color:var(--text-light);font-size:14px;transition:border-color var(--transition-standard)}.form-control:focus{outline:0;border-color:var(--accent-color);box-shadow:0 0 0 2px rgba(104,66,255,.2)}.form-control::placeholder{color:var(--text-dark)}.loading{position:relative;pointer-events:none}.loading::after{content:"";position:absolute;top:50%;left:50%;width:20px;height:20px;margin:-10px 0 0 -10px;border:2px solid var(--border-color);border-top-color:var(--accent-color);border-radius:50%;animation:spin 1s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}::-webkit-scrollbar{width:8px;height:8px}::-webkit-scrollbar-track{background:0 0}::-webkit-scrollbar-thumb{background:var(--text-dark);border-radius:var(--border-radius-small)}::-webkit-scrollbar-thumb:hover{background:var(--text-medium)}*{scrollbar-width:thin;scrollbar-color:var(--text-dark) transparent}@media (max-width:480px){:root{--content-padding:4px}.btn{padding:8px 16px;font-size:13px}.card-body,.card-footer,.card-header{padding:var(--spacing-md)}}@media (max-width:768px){:root{--content-padding:6px}h1{font-size:clamp(20px,5vw,28px)}h2{font-size:clamp(18px,4vw,22px)}h3{font-size:clamp(16px,3vw,18px)}}.main-header{position:fixed;top:0;left:0;right:0;height:var(--header-height);background:var(--header-bg);backdrop-filter:blur(8px);display:flex;align-items:center;justify-content:space-between;padding:0 var(--spacing-sm);gap:10px;z-index:var(--z-fixed);box-shadow:var(--shadow-md);border-bottom:1px solid var(--border-color)}.header-left{display:flex;align-items:center;gap:2px}.icon-button{background:0 0;border:none;cursor:pointer;color:var(--text-medium);width:48px;height:48px;padding:0;display:flex;align-items:center;justify-content:center;border-radius:var(--border-radius);transition:all var(--transition-standard);-webkit-tap-highlight-color:transparent}.icon-button:hover{color:var(--text-light);background:rgba(255,255,255,.1)}.icon-button svg{width:24px;height:24px;fill:currentColor}.logo,.logo-link{display:flex;align-items:center;gap:var(--spacing-sm);text-decoration:none;color:var(--text-medium);transition:color var(--transition-standard)}.logo-link:hover,.logo:hover{color:var(--text-light)}.logo-icon,.logo-image{width:48px;height:48px;background:linear-gradient(135deg,#c07bff,#96beff);border-radius:15px;display:flex;align-items:center;justify-content:center;font-size:40px;color:var(--text-light);flex-shrink:0}.logo-icon img{width:48px;height:48px}.logo-text{font-size:20px;font-weight:700;color:inherit;white-space:nowrap}.search-form{position:relative;flex-grow:1;max-width:600px}.search-input{width:100%;height:36px;background:var(--primary-bg);padding:0 var(--spacing-md) 0 var(--spacing-xxl);border:1px solid #4b5563;border-radius:var(--border-radius);color:var(--text-medium);font-size:14px;transition:all var(--transition-standard)}.search-input:focus{outline:0;border-color:var(--accent-color);background:var(--secondary-bg);box-shadow:0 0 0 2px rgba(104,66,255,.2)}.search-input::placeholder{color:var(--text-dark)}.search-icon-wrapper{position:absolute;top:50%;left:var(--spacing-sm);transform:translateY(-50%);color:var(--text-dark);font-size:20px;pointer-events:none}.header-right{display:flex;align-items:center;gap:var(--spacing-sm)}#sidebar-toggle{position:relative;touch-action:manipulation}#sidebar-toggle.touched{background:rgba(255,255,255,.1);border-radius:50%}@media (min-width:875px){.header-left{gap:var(--spacing-sm)}}@media (max-width:768px){.main-header{padding:0 var(--spacing-xs)}.search-form{max-width:none}.search-input{font-size:16px}}@media (max-width:480px){.logo-text{display:none}.header-left{gap:0}}@media (hover:none) and (pointer:coarse){.icon-button:active{background-color:rgba(255,255,255,.15);transform:scale(.95)}.logo:active{transform:scale(.98)}}.sidebar{position:fixed;top:var(--header-height);left:0;width:var(--sidebar-collapsed-width);height:calc(100vh - var(--header-height));background-color:var(--primary-bg);border-right:1px solid var(--border-color);overflow:hidden;transition:width var(--transition-standard),transform var(--transition-standard);z-index:var(--z-sticky);display:flex;flex-direction:column}.page-container.sidebar-open .sidebar{width:var(--sidebar-expanded-width)}.page-container.sidebar-hidden .sidebar{transform:translateX(-100%)}.page-container.sidebar-hidden .content{margin-left:0!important}.sidebar-scroll-container{flex:1;overflow-y:auto;padding:var(--spacing-sm)}.sidebar-link{display:flex;align-items:center;gap:var(--spacing-md);padding:10px var(--spacing-sm);border-radius:var(--border-radius);white-space:nowrap;color:var(--text-medium);text-decoration:none;transition:all var(--transition-standard);min-height:44px;position:relative;overflow:hidden}.sidebar-link::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--accent-color);transform:scaleY(0);transition:transform var(--transition-standard)}.sidebar-link:hover{background-color:var(--secondary-bg);color:var(--text-light)}.sidebar-link.active{background-color:var(--accent-color);color:var(--text-light);font-weight:600}.sidebar-link.active::before{transform:scaleY(1)}.sidebar-link.disabled{opacity:.6;cursor:not-allowed;pointer-events:none}.emoji-icon{font-style:normal;font-size:1.2em;display:inline-block;vertical-align:middle;width:24px;height:24px;text-align:center;line-height:24px;flex-shrink:0;transition:transform var(--transition-standard)}.sidebar-link:hover .emoji-icon{transform:scale(1.2) rotate(-10deg)}.sidebar-link.active .emoji-icon{transform:scale(1.1)}.game-count{margin-left:auto;font-size:12px;color:var(--text-dark);background:rgba(255,255,255,.05);padding:2px var(--spacing-sm);border-radius:12px;min-width:20px;text-align:center}.sidebar-link:hover .game-count{background:rgba(255,255,255,.1);color:var(--text-medium)}.sidebar-link.active .game-count{background:rgba(255,255,255,.2);color:var(--text-light)}.favorites-count:not(:empty){background:var(--accent-color);color:var(--text-light);padding:0 6px;border-radius:10px;font-size:12px;margin-left:var(--spacing-xs);min-width:18px;text-align:center}.sidebar hr{border:none;border-top:1px solid rgba(255,255,255,.1);margin:var(--spacing-sm) var(--spacing-md)}.sidebar-footer{padding:var(--spacing-md);border-top:1px solid var(--border-color);opacity:0;transition:opacity var(--transition-standard)}.page-container.sidebar-open .sidebar-footer{opacity:1}.sidebar-extra-links{margin-bottom:var(--spacing-md)}.sidebar-extra-links a{display:block;margin-bottom:var(--spacing-sm);font-size:12px;color:var(--text-medium);text-decoration:none;transition:color var(--transition-standard)}.sidebar-extra-links a:hover{color:var(--text-accent)}.sidebar-social-links{display:flex;gap:var(--spacing-sm);margin:var(--spacing-md) 0;justify-content:center}.sidebar-social-links a{width:32px;height:32px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.05);border-radius:50%;color:var(--text-medium);font-size:16px;text-decoration:none;transition:all var(--transition-standard)}.sidebar-social-links a:hover{background:var(--accent-color);color:var(--text-light);transform:translateY(-2px)}.copyright-text{font-size:12px;color:var(--text-dark);text-align:center;line-height:1.4}.sidebar-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.5);z-index:calc(var(--z-sticky) - 1);opacity:0;transition:opacity var(--transition-standard);-webkit-tap-highlight-color:transparent}.sidebar-close-btn{display:none;position:absolute;top:var(--spacing-sm);right:var(--spacing-sm);width:44px;height:44px;background:rgba(255,255,255,.1);border:none;border-radius:50%;color:var(--text-light);font-size:24px;cursor:pointer;z-index:100;transition:all var(--transition-standard);align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent}.sidebar-close-btn:hover{background:rgba(255,255,255,.2);transform:scale(1.1)}@media (min-width:1910px){.sidebar{width:var(--sidebar-expanded-width)}.content{padding-left:var(--sidebar-expanded-width)}.sidebar-footer{opacity:1}}@media (min-width:769px){.sidebar{transform:translateX(0)}.page-container.sidebar-hidden .sidebar{transform:translateX(-100%)}}@media (max-width:768px){.sidebar-close-btn{display:flex}.page-container.sidebar-open .sidebar-overlay{display:block;opacity:1}.sidebar{width:100vw;transform:translateX(-100%);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden;touch-action:pan-y}.page-container.sidebar-open .sidebar{transform:translateX(0);z-index:var(--z-modal)}.page-container.sidebar-open{overflow:hidden;position:fixed;width:100%}.page-container.sidebar-open .sidebar-footer{opacity:1}.sidebar-link{min-height:48px;padding:var(--spacing-sm) var(--spacing-md)}.content{margin-left:0!important}.page-container.sidebar-hidden .content{margin-left:10px!important}.sidebar *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}}@media (hover:none) and (pointer:coarse){.sidebar-link:active{background-color:rgba(255,255,255,.1);transform:scale(.98)}.sidebar-close-btn:active{transform:scale(.95)}}.page-container{display:flex;flex-direction:column;position:relative;min-height:100vh}.background-image{position:fixed;top:0;left:0;width:100%;height:100vh;background-color:var(--primary-bg);background-size:cover;background-position:center;background-repeat:no-repeat;z-index:-1}.content{margin-top:var(--header-height);margin-left:var(--sidebar-collapsed-width);transition:padding-left var(--transition-standard);position:relative;min-height:calc(100vh - var(--header-height));flex:1;padding:10px}.content-wrapper{padding:var(--content-padding) var(--content-padding) var(--spacing-lg);max-width:1400px;margin:0 auto}.main-content{position:relative}.breadcrumb{padding:var(--spacing-sm) var(--spacing-lg);color:var(--text-dark);font-size:14px;margin-bottom:var(--spacing-sm);background:var(--secondary-bg);border-radius:var(--border-radius);border:1px solid var(--border-color)}.breadcrumb a{color:var(--text-medium);text-decoration:none;transition:color var(--transition-standard)}.breadcrumb a:hover{color:var(--text-light)}.breadcrumb span{margin:0 var(--spacing-sm)}.breadcrumb-list{display:flex;flex-wrap:wrap;gap:var(--spacing-sm);list-style:none}.breadcrumb-item{min-width:48px;min-height:48px;align-content:center;display:block}@media (min-width:1910px){.content{padding-left:var(--sidebar-expanded-width)}}@media (max-width:768px){.content{padding-left:0!important}.content-wrapper{padding:var(--spacing-xs) var(--spacing-xs) var(--spacing-lg)}.breadcrumb{padding:var(--spacing-xs) var(--spacing-sm);font-size:12px}}@media (max-width:480px){.content-wrapper{padding:var(--spacing-xs) var(--spacing-xs) var(--spacing-md)}}.responsive-game-image{width:100%;height:100%;object-fit:cover;border-radius:inherit;transition:transform var(--transition-standard)}.game-thumbnail{position:relative;overflow:hidden;border-radius:var(--border-radius)}.game-thumbnail picture{display:block;width:100%;height:100%}.game-thumbnail.loading{background:linear-gradient(90deg,rgba(255,255,255,.1) 25%,transparent 37%,rgba(255,255,255,.1) 63%);background-size:400% 100%;animation:shimmer 1.5s ease-in-out infinite}@keyframes shimmer{0%{background-position:100% 50%}100%{background-position:-100% 50%}}.game-thumbnail{width:100%;max-width:300px;height:auto;aspect-ratio:4/3;object-fit:cover;color:var(--text-light)}.game-image-medium{width:100%;max-width:400px;height:auto;aspect-ratio:4/3;object-fit:cover}.game-image-large{width:100%;max-width:600px;height:auto;aspect-ratio:4/3;object-fit:cover}.game-hero-image{width:100%;max-width:800px;height:auto;aspect-ratio:4/3;object-fit:cover}@media (max-width:768px){.game-hero-image,.game-image-large{max-width:400px}.game-image-medium{max-width:300px}}.no-thumbnail{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;background:var(--secondary-bg);color:var(--text-dark);border-radius:inherit;min-height:120px;border:2px dashed var(--border-color)}.no-thumbnail i{font-size:2rem;margin-bottom:var(--spacing-sm);opacity:.5}.no-thumbnail span{font-size:.875rem;opacity:.7}.game-stats{display:flex;align-items:center;gap:var(--spacing-md);font-size:13px;color:var(--text-dark)}.game-stat{display:flex;align-items:center;gap:var(--spacing-xs)}.game-stat-icon{font-size:14px}.rating-stars{display:flex;gap:2px}.star{color:#fbbf24;font-size:16px;transition:color var(--transition-fast)}.star.empty{color:var(--text-dark)}.star.interactive{cursor:pointer}.star.interactive:hover{color:#f59e0b}.game-tags{display:flex;flex-wrap:wrap;gap:var(--spacing-sm);margin:var(--spacing-md) 0}.game-tag{background:var(--border-color);color:var(--accent-alt-color);padding:6px 14px;border-radius:20px;font-size:13px;text-decoration:none;transition:all var(--transition-standard);display:inline-flex;align-items:center;gap:6px;border:1px solid transparent}.game-tag:hover{background:var(--accent-color);color:var(--text-light);transform:translateY(-2px);border-color:var(--accent-color)}.game-tag .emoji{font-size:16px}.game-controls-section{background:var(--secondary-bg);border-radius:var(--border-radius-large);padding:var(--spacing-lg);margin:var(--spacing-lg) 0;border:1px solid var(--border-color)}.game-controls-section h3{color:var(--text-light);font-size:18px;font-weight:700;margin-bottom:var(--spacing-lg);text-transform:uppercase;letter-spacing:.5px;display:flex;align-items:center;gap:var(--spacing-sm)}.game-controls-section h3::before{content:"🎮";font-size:20px}.controls-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:var(--spacing-md)}.control-item{display:flex;align-items:center;gap:var(--spacing-sm);padding:var(--spacing-sm) var(--spacing-md);background:rgba(255,255,255,.05);border-radius:var(--border-radius);transition:all var(--transition-standard);border:1px solid transparent}.control-items{display:block;padding:var(--spacing-sm);text-align:center;background:rgba(255,255,255,.05);border-radius:var(--border-radius);transition:all var(--transition-standard);border:1px solid transparent}.control-item:hover,.control-items:hover{background:rgba(104,66,255,.1);border-color:var(--accent-color);transform:translateY(-2px)}.control-info{flex:1;min-width:0}.control-key{font-weight:600;color:var(--text-light);font-size:14px;margin-bottom:2px}.control-action{color:var(--text-medium);font-size:13px;line-height:1.3}.control-icon{background:url(/images/control-icons-improved-v2.png) no-repeat;height:22px;width:22px;display:inline-block;vertical-align:middle;margin:0 2px;position:relative}.control-item .control-icon{transform:scale(1.5);margin:0 var(--spacing-sm)}.control-icon.mouse{background-position:-22px -88px;height:22px;width:22px}.control-icon.mouse-wheel{background-position:-22px -132px;height:22px;width:22px}.control-icon.mouse-left{background-position:-22px -110px;height:22px;width:22px}.control-icon.mouse-middle{background-position:-44px -132px;height:22px;width:22px}.control-icon.mouse-right{background-position:-22px -154px;height:22px;width:22px}.control-icon.mouse4{background-position:-22px -176px;height:22px;width:22px}.control-icon.wasd{background-position:-30px -748px;height:22px;width:30px}.control-icon.arrow-keys{background-position:0 -748px;height:22px;width:30px}.control-icon.space{background-position:0 -704px;height:22px;width:66px}.control-icon.shift{background-position:0 -638px;height:22px;width:44px}.control-icon.ctrl{background-position:0 -616px;height:22px;width:44px}.control-icon.enter{background-position:-22px -572px;height:22px;width:22px}.control-icon.esc{background-position:0 -594px;height:22px;width:44px}.control-icon.tab{background-position:0 -660px;height:22px;width:44px}.control-icon.caps-lock{background-position:0 -922px;height:22px;width:80px}.control-icon.backspace{background-position:0 -812px;height:22px;width:90px}.control-icon.number-0{background-position:-22px -484px}.control-icon.number-1{background-position:0 0}.control-icon.number-2{background-position:0 -22px}.control-icon.number-3{background-position:0 -44px}.control-icon.number-4{background-position:0 -88px}.control-icon.number-5{background-position:0 -110px}.control-icon.number-6{background-position:0 -154px}.control-icon.number-7{background-position:0 -220px}.control-icon.number-8{background-position:0 -242px}.control-icon.number-9{background-position:0 -264px}.control-icon.numbers{background-position:0 -726px;height:22px;width:48px}.control-icon.f11{background-position:-44px -22px;height:22px;width:31px}.control-icon.key-q{background-position:-22px -264px}.control-icon.key-w{background-position:-22px -396px}.control-icon.key-e{background-position:0 -484px}.control-icon.key-r{background-position:-22px -286px}.control-icon.key-t{background-position:-22px -330px}.control-icon.key-y{background-position:-22px -440px}.control-icon.key-u{background-position:-22px -352px}.control-icon.key-i{background-position:0 -572px}.control-icon.key-o{background-position:-22px -220px}.control-icon.key-p{background-position:-22px -242px}.control-icon.key-a{background-position:0 -308px}.control-icon.key-s{background-position:-22px -308px}.control-icon.key-d{background-position:0 -462px}.control-icon.key-f{background-position:0 -506px}.control-icon.key-g{background-position:0 -528px}.control-icon.key-h{background-position:0 -550px}.control-icon.key-j{background-position:-22px 0}.control-icon.key-k{background-position:-22px -22px}.control-icon.key-l{background-position:-22px -44px}.control-icon.key-z{background-position:-22px -462px}.control-icon.key-x{background-position:-22px -418px}.control-icon.key-c{background-position:0 -440px}.control-icon.key-v{background-position:-22px -374px}.control-icon.key-b{background-position:0 -418px}.control-icon.key-n{background-position:-22px -198px}.control-icon.key-m{background-position:-22px -66px}.control-icon.key-comma{background-position:-22px -506px;height:22px;width:22px}.control-icon.key-dot{background-position:-22px -528px;height:22px;width:22px}.control-icon.key-slash{background-position:-22px -550px;height:22px;width:22px}.control-icon.key-semicolon{background-position:0 -132px}.control-icon.key-less-than{background-position:0 -176px}.control-icon.key-greater-than{background-position:0 -198px}.control-icon.key-backslash{background-position:0 -286px}.control-icon.key-bracket-left{background-position:-44px 0}.control-icon.key-bracket-right{background-position:-64px 0}.control-icon.key-minus{background-position:-24px -792px}.control-icon.key-plus{background-position:0 -792px}.control-icon.arrow-right{background-position:0 -374px}.control-icon.arrow-down{background-position:0 -330px}.control-icon.arrow-left{background-position:0 -352px}.control-icon.arrow-up{background-position:0 -396px}.control-icon.keyboard{background-position:0 -726px;height:22px;width:48px}.control-icon.divide{background-position:-22px -550px;height:22px;width:22px}.control-icon.alt{background-position:0 -682px;height:22px;width:44px}.control-icon.shift-left{background-position:0 -880px;height:22px;width:70px}.control-icon.shift-right{background-position:0 -900px;height:22px;width:78px}.control-icon.ctrl-left{background-position:0 -836px;height:22px;width:70px}.control-icon.ctrl-right{background-position:0 -856px;height:22px;width:70px}\r\n .no-controls{text-align:center;padding:var(--spacing-xxl) var(--spacing-lg);color:var(--text-dark);font-style:italic}.no-controls i{font-size:48px;margin-bottom:var(--spacing-md);opacity:.5}@media (max-width:768px){.controls-grid{grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:var(--spacing-sm)}.game-controls-section .controls-grid{grid-template-columns:1fr}.control-item{flex-direction:column;text-align:center;gap:var(--spacing-sm)}.game-controls-section .control-item{flex-direction:row-reverse;text-align:justify}.control-item .control-icon{transform:scale(1.2)}}@media (max-width:480px){.game-controls-section{padding:var(--spacing-md)}.game-tags{gap:var(--spacing-xs)}.game-tag{padding:4px 10px;font-size:12px}.game-stats{font-size:12px;gap:var(--spacing-sm)}}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi){.control-icon{background-image:url(/images/control-icons-improved-v2@2x.png);background-size:100px 946px}}@media (hover:none) and (pointer:coarse){.control-item:active,.control-items:active{transform:scale(.98)}.game-tag:active{transform:scale(.95)}}.games-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:var(--spacing-lg);margin-bottom:var(--spacing-xxl)}.games-grid.compact{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:var(--spacing-md)}.games-grid.compact .game-card-thumb{aspect-ratio:4/3}.games-grid.large{grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:var(--spacing-xl)}.games-grid.list{grid-template-columns:1fr;gap:var(--spacing-md)}.games-grid.list .game-card{display:flex;align-items:center}.games-grid.list .game-card-thumb{width:120px;height:80px;flex-shrink:0;aspect-ratio:auto}.games-grid.list .game-card-info{flex:1}.game-card{position:relative;border-radius:var(--border-radius-large);overflow:hidden;background:var(--secondary-bg);transition:all var(--transition-standard);cursor:pointer;border:1px solid var(--border-color);text-decoration:none;color:inherit}.game-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-xl);border-color:var(--accent-color)}.game-card-thumb{position:relative;aspect-ratio:13/9;overflow:hidden;background:var(--primary-bg)}.game-card-thumb img{width:100%;height:100%;object-fit:cover;transition:transform var(--transition-standard)}.game-card:hover .game-card-thumb img{transform:scale(1.05)}.game-card-label{position:absolute;top:var(--spacing-sm);right:var(--spacing-sm);padding:4px var(--spacing-sm);border-radius:var(--border-radius-small);font-size:12px;font-weight:700;color:var(--text-light);text-transform:uppercase;letter-spacing:.5px;z-index:2}.game-card-label.hot{background:linear-gradient(135deg,#ff6b57,#ff3b30)}.game-card-label.new{background:linear-gradient(135deg,#4caf50,#2e7d32)}.game-card-label.featured{background:linear-gradient(135deg,#6842ff,#a48eff)}.game-card-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.8),rgba(0,0,0,.4),transparent);opacity:0;transition:opacity var(--transition-standard);z-index:1}.game-card:hover .game-card-overlay{opacity:1}.game-card-play{position:absolute;bottom:var(--spacing-md);left:50%;transform:translateX(-50%);background:rgba(255,255,255,.1);color:var(--text-light);padding:8px var(--spacing-lg);border-radius:999px;font-weight:700;display:inline-flex;align-items:center;gap:8px;z-index:2;backdrop-filter:blur(8px);transition:all var(--transition-standard)}.game-card-play::after{content:"→";font-size:18px}.game-card:hover .game-card-play{transform:translateX(-50%) translateY(-2px) scale(1.02);background:var(--accent-color)}.game-card-info{padding:var(--spacing-md)}.game-card-title{font-weight:700;color:var(--text-light);margin-bottom:var(--spacing-sm);line-height:1.3;font-size:15px}.game-card-meta{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--text-dark);flex-wrap:wrap;gap:8px}.game-card-stats{display:flex;gap:12px}.game-card-stat{display:flex;align-items:center;gap:4px}.game-card-category{display:flex;align-items:center;gap:6px;color:var(--text-medium)}.game-card-skeleton{background:var(--secondary-bg);border-radius:var(--border-radius-large);overflow:hidden;border:1px solid var(--border-color)}.game-card-skeleton-thumb{aspect-ratio:13/9;background:linear-gradient(90deg,rgba(255,255,255,.1) 25%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.1) 75%);background-size:200% 100%;animation:loading 1.5s infinite}.game-card-skeleton-info{padding:var(--spacing-md)}.game-card-skeleton-meta,.game-card-skeleton-title{height:16px;background:linear-gradient(90deg,rgba(255,255,255,.1) 25%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.1) 75%);background-size:200% 100%;animation:loading 1.5s infinite;border-radius:var(--border-radius-small)}.game-card-skeleton-title{margin-bottom:var(--spacing-sm)}.game-card-skeleton-meta{width:60%}@keyframes loading{0%{background-position:200% 0}100%{background-position:-200% 0}}.sidebar-section{background:var(--secondary-bg);border-radius:var(--border-radius-large);padding:var(--spacing-lg);border:1px solid var(--border-color)}.sidebar-title{font-size:18px;font-weight:700;color:var(--text-light);margin-bottom:var(--spacing-md);display:flex;align-items:center;gap:var(--spacing-sm);text-transform:uppercase;letter-spacing:.5px}.sidebar-title span{font-size:20px}.pagination{display:flex;justify-content:center;align-items:center;gap:8px;margin:40px 0}.pagination-item{min-width:48px;height:48px;display:flex;align-items:center;justify-content:center;background:var(--secondary-bg);color:var(--text-light);border-radius:8px;text-decoration:none;font-weight:600;transition:all var(--transition-standard);border:2px solid transparent}.pagination-item:hover{background:rgba(104,66,255,.1);color:var(--accent-color);transform:translateY(-2px);border-color:var(--accent-color)}.pagination-item.active{background:var(--accent-color);color:var(--text-light);border-color:var(--accent-color)}.pagination-item.disabled{opacity:.5;cursor:not-allowed;pointer-events:none}.pagination-ellipsis{padding:0 8px;color:var(--text-dark)}@media (max-width:768px){.pagination{flex-wrap:wrap;gap:4px}.pagination-item{min-width:40px;height:40px;font-size:14px}}@media (max-width:480px){.pagination-item{min-width:36px;height:36px;font-size:13px}}@media (hover:none) and (pointer:coarse){.pagination-item{min-height:48px}}.game-container{display:grid;grid-template-columns:1fr 320px;gap:var(--spacing-lg)}.game-main{background:var(--secondary-bg);border-radius:var(--border-radius-large);overflow:hidden;border:1px solid var(--border-color)}.game-wrapper{position:relative;width:100%;padding-top:56.25%;background:var(--primary-bg);max-height:80vh;overflow:hidden}.game-wrapper.ratio-16-9{padding-top:56.25%}.game-wrapper.ratio-4-3{padding-top:75%}.game-wrapper.ratio-3-2{padding-top:66.66%}.game-wrapper.ratio-1-1{padding-top:100%}.game-wrapper.ratio-3-4{padding-top:133.33%}.game-wrapper.ratio-9-16{padding-top:177.77%}.game-iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none;background:var(--primary-bg)}.game-loading{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;color:var(--text-light);z-index:10}.game-loading-spinner{width:60px;height:60px;border:4px solid rgba(255,255,255,.1);border-top-color:var(--accent-color);border-radius:50%;animation:spin 1s linear infinite;margin:0 auto var(--spacing-lg)}.game-loading p{color:var(--text-medium);font-size:16px;margin:0}.game-wrapper:fullscreen{padding-top:0;max-height:none;height:100vh;width:100vw;background:var(--primary-bg)}.game-wrapper:-webkit-full-screen{padding-top:0;max-height:none;height:100vh;width:100vw;background:var(--primary-bg)}.game-wrapper:-moz-full-screen{padding-top:0;max-height:none;height:100vh;width:100vw;background:var(--primary-bg)}.game-error{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;color:var(--text-light);padding:var(--spacing-lg)}.game-error-icon{font-size:4rem;margin-bottom:var(--spacing-md);opacity:.5}.game-error h3{color:var(--text-light);margin-bottom:var(--spacing-sm)}.game-error p{color:var(--text-medium);margin-bottom:var(--spacing-lg)}.game-progress{position:absolute;bottom:0;left:0;right:0;height:4px;background:rgba(0,0,0,.3);overflow:hidden}.game-progress-bar{height:100%;background:var(--accent-color);width:0%;transition:width .3s ease}.unity-loader{background:#232323;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#fff}.unity-progress-bar{width:200px;height:18px;margin:10px;background-color:#404040;border-radius:9px;overflow:hidden}.unity-progress-fill{height:100%;background:linear-gradient(90deg,#440a67,#31a2ac);border-radius:9px;width:0%;transition:width .3s}.flash-fallback{background:#f0f0f0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px}@media (max-width:1024px){.game-container{grid-template-columns:1fr}.game-wrapper{max-height:70vh}}@media (max-width:768px){.game-container{gap:var(--spacing-md)}.game-wrapper{max-height:60vh}.game-loading-spinner{width:40px;height:40px}.game-loading p{font-size:14px}}@media (max-width:480px){.game-wrapper{max-height:50vh}.game-error{padding:var(--spacing-md)}.game-error-icon{font-size:3rem}}.game-preview-screen{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:center;background-repeat:no-repeat;filter:blur(8px);z-index:1;transition:opacity .5s ease,visibility .5s ease}.game-preview-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.6);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;cursor:pointer;transition:all .5s ease}.game-preview-overlay:hover{background:rgba(0,0,0,.7)}.game-preview-thumbnail{width:200px;height:160px;border-radius:var(--border-radius-large);overflow:hidden;margin-bottom:var(--spacing-lg);box-shadow:var(--shadow-xl);transition:transform var(--transition-standard)}.game-preview-overlay:hover .game-preview-thumbnail{transform:scale(1.05)}.game-preview-thumbnail img{width:100%;height:100%;object-fit:cover}.game-preview-title{color:#fff;font-size:24px;font-weight:700;margin-bottom:var(--spacing-lg);text-align:center;text-shadow:0 2px 4px rgba(0,0,0,.8)}.game-preview-play-btn{background:linear-gradient(135deg,#8b5cf6 0,#7c3aed 100%);color:#fff;border:none;padding:16px 48px;border-radius:50px;font-size:18px;font-weight:600;cursor:pointer;transition:all var(--transition-standard);box-shadow:0 8px 25px rgba(139,92,246,.4);text-transform:uppercase;letter-spacing:.5px;animation:1s ease-out infinite pulsePopOut}@keyframes pulsePopOut{0%{transform:scale(1);background-color:#6842ff;box-shadow:rgba(104,66,255,.3) 0 0 0}20%{transform:scale(1.08);background-color:#7f5eff;box-shadow:rgba(104,66,255,.5) 0 0 35px}100%{transform:scale(1);background-color:#6842ff;box-shadow:rgba(104,66,255,.3) 0 0 0}}.game-preview-play-btn:hover{transform:translateY(-3px) scale(1.05);box-shadow:0 12px 35px rgba(139,92,246,.6);background:linear-gradient(135deg,#7c3aed 0,#6d28d9 100%);animation:.3s textJump}.game-preview-play-btn::after{opacity:.8;inset:-7px;border:3px solid #8667ff}@keyframes textJump{0%{transform:translateY(0)}10%{transform:translateY(-14px)}40%{transform:translateY(5px)}100%{transform:translateY(0)}}.game-preview-play-btn:active{transform:translateY(-1px) scale(1.02)}.game-wrapper.preview-mode{cursor:pointer}.game-wrapper.loading-game .game-preview-screen{opacity:0;visibility:hidden}.game-wrapper.loading-game .game-preview-overlay{opacity:0;visibility:hidden}@media (max-width:768px){.game-preview-thumbnail{width:160px;height:96px;margin-bottom:var(--spacing-md)}.game-preview-title{font-size:20px;margin-bottom:var(--spacing-md)}.game-preview-play-btn{padding:14px 36px;font-size:16px}}@media (max-width:480px){.game-preview-thumbnail{width:140px;height:84px}.game-preview-title{font-size:18px}.game-preview-play-btn{padding:12px 28px;font-size:15px}}.game-controls{display:flex;justify-content:space-between;align-items:center;padding:var(--spacing-md) var(--spacing-lg);background:rgba(0,0,0,.8);border-top:1px solid var(--border-color);gap:var(--spacing-sm);overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}.game-controls::-webkit-scrollbar{display:none}.control-button{background:0 0;border:1px solid var(--border-color);color:var(--text-medium);padding:var(--spacing-sm) var(--spacing-md);border-radius:var(--border-radius);cursor:pointer;display:flex;align-items:center;gap:var(--spacing-sm);transition:all var(--transition-standard);font-size:14px;font-weight:600;white-space:nowrap;min-height:36px}.control-button:hover{background:var(--accent-color);border-color:var(--accent-color);color:var(--text-light);transform:translateY(-1px)}.control-button:active{transform:translateY(0)}.control-button.active{background:var(--accent-color);border-color:var(--accent-color);color:var(--text-light)}.control-button.disabled{opacity:.5;cursor:not-allowed;pointer-events:none}.control-button span:first-child{font-size:16px;display:flex;align-items:center}#playBtn.loading::after{content:"";width:12px;height:12px;border:2px solid transparent;border-top:2px solid currentColor;border-radius:50%;animation:spin 1s linear infinite;margin-left:var(--spacing-xs)}#soundBtn.muted{background:rgba(255,71,87,.2);border-color:#ff4757;color:#ff4757}#fullscreenBtn.fullscreen{background:rgba(46,213,115,.2);border-color:#1b8347;color:#1b8347}.control-group{display:flex;gap:var(--spacing-sm)}.quality-selector{position:relative}.quality-dropdown{position:absolute;top:100%;left:0;background:var(--secondary-bg);border:1px solid var(--border-color);border-radius:var(--border-radius);min-width:120px;z-index:var(--z-dropdown);opacity:0;visibility:hidden;transform:translateY(-10px);transition:all var(--transition-standard)}.quality-selector:hover .quality-dropdown{opacity:1;visibility:visible;transform:translateY(0)}.quality-option{padding:var(--spacing-sm) var(--spacing-md);cursor:pointer;transition:background var(--transition-standard);font-size:13px}.quality-option:hover{background:var(--accent-color);color:var(--text-light)}.quality-option.active{background:rgba(104,66,255,.2);color:var(--accent-color)}.game-controls-info{display:flex;align-items:center;gap:var(--spacing-md);color:var(--text-dark);font-size:12px}.controls-fps{display:flex;align-items:center;gap:var(--spacing-xs)}.fps-indicator{width:8px;height:8px;border-radius:50%;background:var(--success-color)}.fps-indicator.warning{background:var(--warning-color)}.fps-indicator.error{background:var(--danger-color)}.volume-control{position:relative;display:flex;align-items:center;gap:var(--spacing-sm)}.volume-slider{width:0;opacity:0;transition:all var(--transition-standard);-webkit-appearance:none;appearance:none;height:4px;background:var(--border-color);border-radius:2px;overflow:hidden}.volume-slider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:12px;height:12px;background:var(--accent-color);border-radius:50%;cursor:pointer}.volume-control:hover .volume-slider{width:80px;opacity:1}@media (max-width:768px){.control-button{padding:var(--spacing-xs) var(--spacing-sm);font-size:12px;min-height:32px}.control-button span:first-child{font-size:14px}.game-controls-info{display:none}.volume-control .volume-slider{display:none}}@media (hover:none) and (pointer:coarse){.control-button{min-height:44px;padding:var(--spacing-sm) var(--spacing-md)}.control-button:active{background:var(--accent-color);color:var(--text-light);transform:scale(.95)}.volume-control .volume-slider{width:80px;opacity:1}}.game-info{padding:var(--spacing-lg);background:var(--secondary-bg)}.game-info ol,.game-info ul{margin-left:var(--spacing-xl)}.game-infos{padding:var(--spacing-lg);display:flex;gap:var(--spacing-lg);align-items:flex-start}.game-main-content{flex:1;min-width:0}.game-details{margin-top:var(--spacing-lg);padding:var(--spacing-lg);background:var(--secondary-bg);border:1px solid var(--border-color);border-radius:var(--border-radius-large);box-shadow:var(--shadow-lg)}.game-details h2{margin:0 0 var(--spacing-md);font-size:20px;color:var(--text-light);font-weight:700}.game-details li{margin-left:var(--spacing-lg)}.game-details-list{margin:0;padding:0}.game-detail-item{padding:4px}.detail-label{color:var(--text-light);font-size:13px;letter-spacing:.04em;font-weight:700}.detail-value{color:var(--text-medium);line-height:1.6;font-size:14px}.detail-value .detail-link{color:var(--text-medium);text-decoration:underline;font-weight:700}.detail-value .detail-link:hover{text-decoration:underline}.game-title{font-size:clamp(24px,4vw,32px);color:var(--text-light);margin-bottom:var(--spacing-sm);font-weight:800;line-height:1.2}.game-meta{display:flex;gap:var(--spacing-md);color:var(--text-medium);font-size:14px;flex-wrap:wrap;margin-bottom:var(--spacing-md)}.game-meta-item{display:flex;align-items:center;gap:6px;background:rgba(255,255,255,.05);padding:4px var(--spacing-sm);border-radius:var(--border-radius-small)}.game-actions{display:flex;gap:var(--spacing-sm);margin-bottom:var(--spacing-md);flex-wrap:wrap}.action-button{background:var(--accent-color);color:var(--text-light);border:none;padding:10px var(--spacing-lg);border-radius:var(--border-radius);cursor:pointer;font-weight:600;transition:all var(--transition-standard);display:flex;align-items:center;gap:var(--spacing-sm);font-size:14px}.action-button:hover{transform:translateY(-2px);box-shadow:var(--shadow-accent)}.action-button.secondary{background:0 0;border:2px solid var(--border-color);color:var(--text-medium)}.action-button.secondary:hover{border-color:var(--accent-color);color:var(--accent-color)}.action-button.favorited{background:var(--danger-color)}.tabs{display:flex;gap:0;border-bottom:2px solid var(--border-color);margin-bottom:var(--spacing-lg);overflow-x:auto;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}.tab{padding:var(--spacing-sm) var(--spacing-lg);background:0 0;border:none;color:var(--text-medium);cursor:pointer;font-weight:600;position:relative;transition:all var(--transition-standard);white-space:nowrap;border-radius:var(--border-radius) var(--border-radius) 0 0}.tab:hover{color:var(--text-light);background:rgba(255,255,255,.05)}.tab.active{color:var(--text-light);background:var(--accent-color)}.tab.active::after{content:"";position:absolute;bottom:-2px;left:0;right:0;height:2px;background:var(--accent-color)}.tab-content{display:none;animation:fadeIn .3s ease}.tab-content.active{display:block}@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}.tabs-with-ad-container{display:flex;gap:var(--spacing-lg);align-items:flex-start}.tabs-content-area{flex:1;min-width:0;width:100%}.game-description{color:var(--text-medium);line-height:1.8;margin-bottom:var(--spacing-lg)}.game-description h2,.game-description h3{color:var(--text-light);margin:var(--spacing-lg) 0 var(--spacing-sm) 0}.game-description p{margin-bottom:var(--spacing-md)}.game-description a{color:var(--text-light);text-decoration:underline}.game-description a:hover{color:var(--text-accent)}.game-instructions{background:rgba(104,66,255,.1);border-left:4px solid var(--accent-color);padding:var(--spacing-lg);border-radius:var(--border-radius);margin:var(--spacing-lg) 0}.game-instructions h3{color:var(--text-light);margin-bottom:var(--spacing-sm);display:flex;align-items:center;gap:var(--spacing-sm)}.game-instructions h3::before{content:"📖";font-size:18px}.game-instructions p{color:var(--text-medium);line-height:1.6;margin:0}.image-container,.video-container{margin-top:16px}.video-wrapper{position:relative;width:100%;height:0;padding-bottom:56.25%}.video-placeholder{position:absolute;top:0;left:0;width:100%;height:100%;cursor:pointer;border-radius:8px;overflow:hidden;background:#000}.video-thumbnail{width:100%;height:100%;object-fit:cover;transition:transform .3s ease}.video-placeholder:hover .video-thumbnail{transform:scale(1.05)}.play-button{width:70px;height:46px;background-color:#212121;z-index:1;opacity:.8;border-radius:14%;transition:all .2s cubic-bezier(0,0,.2,1)}.yt-lite:hover>.lty-playbtn{background-color:red;opacity:1}.play-button:before{content:"";border-color:#0000 #0000 #0000 #fff;border-style:solid;border-width:11px 0 11px 19px}.play-button,.play-button:before{position:absolute;top:50%;left:50%;transform:translate3d(-50%,-50%,0)}.video-placeholder:hover .play-button{background:rgba(255,0,0,1);transform:translate(-50%,-50%) scale(1.1)}.video-info{position:absolute;bottom:16px;left:16px;color:#fff;text-shadow:0 2px 4px rgba(0,0,0,.7)}.video-platform{background:rgba(255,0,0,.9);padding:4px 8px;border-radius:4px;font-size:12px;font-weight:600;margin-right:8px}.video-title{font-size:14px;font-weight:500}.game-video-iframe,.game-video-player{position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px}.video-iframe-container{position:absolute;top:0;left:0;width:100%;height:100%}@media (max-width:768px){.play-button{width:60px;height:60px;font-size:20px}.video-info{bottom:8px;left:8px}}.game-tags-section{margin:var(--spacing-lg) 0}.game-tags-section h3{color:var(--text-light);margin-bottom:var(--spacing-sm);display:flex;align-items:center;gap:var(--spacing-sm)}.game-tags-section h3::before{content:"🏷️"}@media (max-width:1200px){.tabs-with-ad-container{flex-direction:column}}@media (max-width:768px){.game-infos{flex-direction:column;padding:var(--spacing-md);gap:var(--spacing-md)}.game-title{font-size:22px}.game-meta{font-size:12px;gap:var(--spacing-sm)}.game-actions{width:100%}.action-button{flex:1;justify-content:center}.tab{padding:var(--spacing-sm) var(--spacing-md);font-size:13px}.tabs-with-ad-container{gap:var(--spacing-md)}}@media (max-width:480px){.game-info{padding:var(--spacing-md)}.game-meta{font-size:12px}.game-meta-item{padding:2px var(--spacing-xs)}.action-button{padding:var(--spacing-sm) var(--spacing-md);font-size:13px}.tab{font-size:12px}}.comments-section{margin-top:var(--spacing-lg)}.comment-form{background:rgba(255,255,255,.05);padding:var(--spacing-lg);border-radius:var(--border-radius-large);margin-bottom:var(--spacing-lg);border:1px solid var(--border-color)}.comment-form h3{color:var(--text-light);margin-bottom:var(--spacing-md);text-transform:uppercase;letter-spacing:.5px;display:flex;align-items:center;gap:var(--spacing-sm)}.comment-form h3::before{content:"💬";font-size:18px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:var(--spacing-md);margin-bottom:var(--spacing-md)}.form-group{margin-bottom:var(--spacing-md)}.form-label{display:block;color:var(--text-medium);margin-bottom:var(--spacing-xs);font-size:14px;font-weight:600}.form-input,.form-textarea{width:100%;background:var(--primary-bg);border:1px solid var(--border-color);color:var(--text-light);padding:10px 14px;border-radius:var(--border-radius);font-size:14px;transition:border-color var(--transition-standard);font-family:inherit}.form-input:focus,.form-textarea:focus{outline:0;border-color:var(--accent-color);box-shadow:0 0 0 2px rgba(104,66,255,.2)}.form-input::placeholder,.form-textarea::placeholder{color:var(--text-dark)}.form-textarea{resize:vertical;min-height:100px;line-height:1.5}.rating-input{display:flex;gap:var(--spacing-sm);margin:var(--spacing-sm) 0;align-items:center}.rating-input .star{font-size:24px;cursor:pointer;color:var(--text-dark);transition:all var(--transition-fast);user-select:none}.rating-input .star.hover,.rating-input .star.selected,.rating-input .star:hover{color:#fbbf24;transform:scale(1.1)}.rating-input .star:active{transform:scale(.95)}.comment-form .action-button{margin-top:var(--spacing-md)}.comment-list{display:flex;flex-direction:column;gap:var(--spacing-lg)}.comment-item{background:rgba(255,255,255,.03);padding:var(--spacing-md);border-radius:var(--border-radius);border-left:3px solid var(--accent-color);transition:all var(--transition-standard)}.comment-item:hover{background:rgba(255,255,255,.05);border-left-color:var(--text-accent)}.comment-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:var(--spacing-sm);flex-wrap:wrap;gap:var(--spacing-sm)}.comment-author{font-weight:600;color:var(--text-light);font-size:15px}.comment-time{font-size:12px;color:var(--text-dark)}.comment-rating{display:flex;gap:2px;margin-top:2px}.comment-rating .star{font-size:14px}.comment-text{color:var(--text-medium);line-height:1.6;word-wrap:break-word}.comment-actions{margin-top:var(--spacing-sm);display:flex;gap:var(--spacing-sm);align-items:center}.comment-action{background:0 0;border:none;color:var(--text-dark);cursor:pointer;font-size:12px;padding:var(--spacing-xs) var(--spacing-sm);border-radius:var(--border-radius-small);transition:all var(--transition-standard);display:flex;align-items:center;gap:var(--spacing-xs)}.comment-action:hover{color:var(--text-light);background:rgba(255,255,255,.05)}.comment-action.liked{color:var(--danger-color)}.comments-empty{text-align:center;padding:var(--spacing-xxl) var(--spacing-lg);color:var(--text-dark)}.comments-empty-icon{font-size:3rem;margin-bottom:var(--spacing-md);opacity:.5}.comments-empty h3{color:var(--text-medium);margin-bottom:var(--spacing-sm)}.comments-empty p{color:var(--text-dark);margin:0}.comment-replies{margin-top:var(--spacing-md);margin-left:var(--spacing-lg);border-left:2px solid var(--border-color);padding-left:var(--spacing-md)}.comment-reply{background:rgba(255,255,255,.02);padding:var(--spacing-sm);border-radius:var(--border-radius-small);margin-bottom:var(--spacing-sm)}.comment-pending{opacity:.6;position:relative}.comment-pending::after{content:"Pending approval";position:absolute;top:var(--spacing-xs);right:var(--spacing-xs);background:var(--warning-color);color:var(--text-light);padding:2px var(--spacing-xs);border-radius:var(--border-radius-small);font-size:12px;font-weight:600}@media (max-width:768px){.comment-form{padding:var(--spacing-md)}.form-grid{grid-template-columns:1fr;gap:var(--spacing-sm)}.rating-input .star{font-size:20px}.comment-item{padding:var(--spacing-sm)}.comment-header{flex-direction:column;align-items:flex-start;gap:var(--spacing-xs)}.comment-replies{margin-left:var(--spacing-md);padding-left:var(--spacing-sm)}}@media (max-width:480px){.comment-form h3{font-size:16px}.form-input,.form-textarea{font-size:16px}.rating-input{justify-content:center}.comment-actions{flex-wrap:wrap}.comment-action{font-size:12px}}@media (hover:none) and (pointer:coarse){.rating-input .star{min-width:32px;min-height:32px;display:flex;align-items:center;justify-content:center}.rating-input .star:active{background:rgba(255,255,255,.1);border-radius:50%}.comment-action{min-height:32px;padding:var(--spacing-xs) var(--spacing-sm)}}.game-sidebar{display:flex;flex-direction:column;gap:var(--spacing-lg);margin-right:var(--spacing-lg)}.sidebar-section{background:var(--secondary-bg);border-radius:var(--border-radius-large);padding:var(--spacing-lg);border:1px solid var(--border-color)}.sidebar-title{font-size:18px;font-weight:700;color:var(--text-light);margin-bottom:var(--spacing-md);display:flex;align-items:center;gap:var(--spacing-sm);text-transform:uppercase;letter-spacing:.5px}.sidebar-title span{font-size:20px}.game-stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:var(--spacing-md)}.stat-box{text-align:center;padding:var(--spacing-md);background:rgba(255,255,255,.05);border-radius:var(--border-radius);border:1px solid var(--border-color);transition:all var(--transition-standard)}.stat-box:hover{background:rgba(255,255,255,.08);transform:translateY(-2px)}.stat-value{font-size:24px;font-weight:700;color:var(--text-light);display:block;margin-bottom:var(--spacing-xs)}.stat-label{font-size:12px;color:var(--text-medium);text-transform:uppercase;letter-spacing:.5px}.related-games-grid{display:grid;grid-template-columns:1fr;gap:var(--spacing-sm)}.related-game-item{display:flex;gap:var(--spacing-sm);padding:var(--spacing-sm);background:rgba(255,255,255,.05);border-radius:var(--border-radius);text-decoration:none;transition:all var(--transition-standard);border:1px solid transparent}.related-game-item:hover{background:rgba(104,66,255,.1);border-color:var(--accent-color);transform:translateX(4px)}.related-game-thumb{width:80px;height:60px;border-radius:var(--border-radius-small);overflow:hidden;flex-shrink:0;position:relative}.related-game-thumb img{width:100%;height:100%;object-fit:cover;transition:transform var(--transition-standard)}.related-game-item:hover .related-game-thumb img{transform:scale(1.05)}.related-game-info{flex:1;display:flex;flex-direction:column;justify-content:center;min-width:0}.related-game-title{color:var(--text-light);font-weight:600;font-size:14px;margin-bottom:var(--spacing-xs);line-height:1.3;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.related-game-meta{color:var(--text-dark);font-size:12px;display:flex;gap:var(--spacing-sm);align-items:center}.sidebar-tags{display:flex;flex-wrap:wrap;gap:var(--spacing-xs)}.sidebar-tag{background:rgba(104,66,255,.1);color:var(--text-accent);padding:4px var(--spacing-sm);border-radius:12px;font-size:12px;text-decoration:none;transition:all var(--transition-standard);border:1px solid transparent}.sidebar-tag:hover{background:var(--accent-color);color:var(--text-light);border-color:var(--accent-color)}.developer-info{background:rgba(255,255,255,.03);padding:var(--spacing-md);border-radius:var(--border-radius);border:1px solid var(--border-color)}.developer-avatar{width:40px;height:40px;border-radius:50%;overflow:hidden;margin-bottom:var(--spacing-sm)}.developer-name{color:var(--text-light);font-weight:600;margin-bottom:var(--spacing-xs)}.developer-description{color:var(--text-medium);font-size:13px;line-height:1.4}.category-nav{display:flex;flex-direction:column;gap:var(--spacing-xs)}.category-nav-item{display:flex;align-items:center;justify-content:space-between;padding:var(--spacing-sm);background:rgba(255,255,255,.05);border-radius:var(--border-radius-small);text-decoration:none;color:var(--text-medium);transition:all var(--transition-standard)}.category-nav-item:hover{background:rgba(104,66,255,.1);color:var(--text-light);transform:translateX(4px)}.category-nav-name{display:flex;align-items:center;gap:var(--spacing-sm)}.category-nav-count{background:rgba(255,255,255,.1);padding:2px var(--spacing-xs);border-radius:10px;font-size:12px}.more-games-btn{width:100%;margin-top:var(--spacing-md);justify-content:center;text-align:center}.game-sidebar.sticky{position:sticky;top:calc(var(--header-height) + var(--spacing-md));max-height:calc(100vh - var(--header-height) - var(--spacing-lg));overflow-y:auto}@media (max-width:1024px){.game-sidebar{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:var(--spacing-lg);margin-right:0}.game-sidebar.sticky{position:static;max-height:none}}@media (max-width:768px){.game-sidebar{grid-template-columns:1fr;gap:var(--spacing-md)}.sidebar-section{padding:var(--spacing-md)}.sidebar-title{font-size:16px}.game-stats-grid{grid-template-columns:repeat(4,1fr);gap:var(--spacing-sm)}.stat-box{padding:var(--spacing-sm)}.stat-value{font-size:18px}.stat-label{font-size:12px}.related-game-thumb{width:60px;height:45px}.related-game-title{font-size:13px}.related-game-meta{font-size:12px}}@media (max-width:480px){.game-stats-grid{grid-template-columns:1fr 1fr}.related-game-item{flex-direction:column;text-align:center}.related-game-thumb{width:100%;height:180px}.related-game-title{white-space:normal;overflow:visible}}.modal{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.8);z-index:var(--z-modal);align-items:center;justify-content:center;backdrop-filter:blur(4px);animation:modalFadeIn .3s ease}.modal.active{display:flex}@keyframes modalFadeIn{from{opacity:0}to{opacity:1}}.modal-content{background:var(--secondary-bg);padding:var(--spacing-xl);border-radius:var(--border-radius-large);max-width:500px;width:90%;max-height:90vh;overflow-y:auto;position:relative;border:1px solid var(--border-color);animation:modalSlideIn .3s ease}@keyframes modalSlideIn{from{opacity:0;transform:translateY(-20px) scale(.95)}to{opacity:1;transform:translateY(0) scale(1)}}.modal-close{position:absolute;top:var(--spacing-md);right:var(--spacing-md);background:0 0;border:none;color:var(--text-medium);font-size:24px;cursor:pointer;width:32px;height:32px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:all var(--transition-standard)}.modal-close:hover{background:rgba(255,255,255,.1);color:var(--text-light);transform:scale(1.1)}.share-modal{display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.8);z-index:var(--z-modal);align-items:center;justify-content:center;backdrop-filter:blur(4px)}.share-modal.active{display:flex}.share-content{background:var(--secondary-bg);padding:var(--spacing-xl);border-radius:var(--border-radius-large);max-width:500px;width:90%;position:relative;border:1px solid var(--border-color);animation:modalSlideIn .3s ease}.share-close{position:absolute;top:var(--spacing-md);right:var(--spacing-md);background:0 0;border:none;color:var(--text-medium);font-size:24px;cursor:pointer;width:32px;height:32px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:all var(--transition-standard)}.share-close:hover{background:rgba(255,255,255,.1);color:var(--text-light)}.share-title{font-size:20px;color:var(--text-light);margin-bottom:var(--spacing-lg);font-weight:700;padding-right:var(--spacing-xl)}.share-buttons{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:var(--spacing-sm)}.share-button{display:flex;flex-direction:column;align-items:center;gap:var(--spacing-sm);padding:var(--spacing-md);background:rgba(255,255,255,.05);border-radius:var(--border-radius);text-decoration:none;color:var(--text-medium);transition:all var(--transition-standard);border:1px solid transparent;text-align:center}.share-button:hover{background:var(--accent-color);color:var(--text-light);transform:translateY(-2px);border-color:var(--accent-color)}.share-icon{font-size:32px;transition:transform var(--transition-standard)}.share-button:hover .share-icon{transform:scale(1.1)}.share-label{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px}.share-button.copy-link{position:relative}.share-button.copy-link.copied::after{content:"Copied!";position:absolute;top:-30px;left:50%;transform:translateX(-50%);background:var(--success-color);color:var(--text-light);padding:4px var(--spacing-sm);border-radius:var(--border-radius-small);font-size:12px;animation:copyNotification 2s ease}@keyframes copyNotification{0%{opacity:0;transform:translateX(-50%) translateY(10px)}20%,80%{opacity:1;transform:translateX(-50%) translateY(0)}100%{opacity:0;transform:translateX(-50%) translateY(-10px)}}.share-button[data-platform=facebook] .share-icon{color:#1877f2}.share-button[data-platform=twitter] .share-icon{color:#1da1f2}.share-button[data-platform=whatsapp] .share-icon{color:#25d366}.share-button[data-platform=reddit] .share-icon{color:#ff4500}.share-button[data-platform=telegram] .share-icon{color:#08c}.share-button[data-platform=copy] .share-icon{color:var(--text-accent)}.share-url-container{margin-top:var(--spacing-lg);padding-top:var(--spacing-lg);border-top:1px solid var(--border-color)}.share-url-input{width:100%;background:var(--primary-bg);border:1px solid var(--border-color);color:var(--text-light);padding:var(--spacing-sm) var(--spacing-md);border-radius:var(--border-radius);font-size:14px;font-family:monospace;margin-bottom:var(--spacing-sm)}.share-url-input:focus{outline:0;border-color:var(--accent-color)}.share-button.loading{pointer-events:none;opacity:.7}.share-button.loading .share-icon{animation:spin 1s linear infinite}.share-error{color:var(--danger-color);font-size:12px;text-align:center;margin-top:var(--spacing-sm);padding:var(--spacing-xs);background:rgba(255,71,87,.1);border-radius:var(--border-radius-small)}@media (max-width:768px){.modal-content,.share-content{padding:var(--spacing-lg);width:95%}.share-title{font-size:18px;margin-bottom:var(--spacing-md)}.share-buttons{grid-template-columns:repeat(3,1fr);gap:var(--spacing-xs)}.share-button{padding:var(--spacing-sm)}.share-icon{font-size:28px}.share-label{font-size:12px}}@media (max-width:480px){.modal-content,.share-content{padding:var(--spacing-md)}.share-buttons{grid-template-columns:repeat(2,1fr)}.share-icon{font-size:24px}.share-url-input{font-size:13px}}@media (hover:none) and (pointer:coarse){.share-button{min-height:80px;padding:var(--spacing-md)}.share-button:active{transform:scale(.95)}.modal-close,.share-close{min-width:44px;min-height:44px}}.modal[aria-hidden=true]{display:none!important}.modal-content:focus,.share-content:focus{outline:2px solid var(--accent-color);outline-offset:2px}.quick-report-modal{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.8);display:flex;align-items:center;justify-content:center;z-index:10000;opacity:0;transition:opacity .3s ease}.quick-report-modal.active{opacity:1}.quick-report-content{background:var(--secondary-bg);padding:30px;border-radius:12px;max-width:400px;width:90%;position:relative;color:var(--text-primary)}.quick-report-close{position:absolute;top:15px;right:15px;background:0 0;border:none;font-size:20px;cursor:pointer;color:var(--text-secondary)}.quick-report-options{display:grid;gap:10px;margin-top:20px}.quick-report-btn{padding:12px;border:2px solid var(--border-color);border-radius:8px;background:var(--bg-primary);color:var(--text-primary);cursor:pointer;transition:all .2s ease;text-align:left}.quick-report-btn:hover{border-color:var(--accent-color);background:var(--bg-hover)}.quick-report-btn.secondary{background:var(--accent-color);color:#fff;border-color:var(--accent-color);text-align:center}.faq-section{margin:var(--spacing-lg) 0}.faq-item{background:rgba(255,255,255,.05);border-radius:var(--border-radius);margin-bottom:var(--spacing-sm);border:1px solid var(--border-color);overflow:hidden}.faq-question{background:0 0;border:none;width:100%;padding:var(--spacing-md) var(--spacing-lg);text-align:left;color:var(--text-light);font-weight:600;font-size:16px;cursor:pointer;transition:all var(--transition-standard);position:relative;padding-right:calc(var(--spacing-lg) + 24px)}.faq-question:hover{background:rgba(255,255,255,.05)}.faq-question::after{content:"+";font-size:20px;position:absolute;right:var(--spacing-lg);top:50%;transform:translateY(-50%);transition:transform var(--transition-standard)}.faq-question.active::after{transform:translateY(-50%) rotate(45deg)}.faq-answer{padding:0 var(--spacing-lg);color:var(--text-medium);line-height:1.6;max-height:0;overflow:hidden;transition:max-height var(--transition-slow)}.faq-answer.active{max-height:200px}.main-footer{background:var(--secondary-bg);border-top:1px solid var(--border-color);margin-top:var(--spacing-xxl);padding:var(--spacing-xxl) var(--sidebar-collapsed-width)}.footer-content{max-width:1200px;margin:0 auto;padding:0 var(--spacing-md);display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:var(--spacing-xl)}.footer-section span{color:var(--text-light);font-size:18px;font-weight:700;margin-bottom:var(--spacing-md);display:flex;align-items:center;gap:var(--spacing-sm)}.footer-section p{color:var(--text-medium);line-height:1.6;margin-bottom:var(--spacing-md)}.footer-links{display:flex;flex-direction:column;gap:var(--spacing-sm)}.footer-links a{color:var(--text-medium);text-decoration:none;transition:color var(--transition-standard);font-size:14px}.footer-links a:hover{color:var(--accent-color)}.footer-social-links{display:flex;gap:var(--spacing-md);margin-top:var(--spacing-md)}.footer-social-links a{width:40px;height:40px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.05);border-radius:50%;color:var(--text-medium);font-size:20px;text-decoration:none;transition:all var(--transition-standard);border:1px solid transparent}.footer-social-links a:hover{background:var(--accent-color);color:var(--text-light);transform:translateY(-2px);border-color:var(--accent-color)}.footer-contact p{color:var(--text-medium);margin-bottom:var(--spacing-sm);font-size:14px}.footer-contact-btn{display:inline-flex;align-items:center;gap:var(--spacing-xs);background:var(--accent-color);color:var(--text-light);padding:8px 16px;border-radius:var(--border-radius);text-decoration:none;font-size:14px;font-weight:600;transition:all var(--transition-standard);margin-top:var(--spacing-sm)}.footer-contact-btn:hover{background:var(--text-accent);transform:translateY(-2px);box-shadow:var(--shadow-accent)}.footer-bottom{border-top:1px solid var(--border-color);margin-top:var(--spacing-xl);padding-top:var(--spacing-lg)}.footer-bottom-content{max-width:1200px;margin:0 auto;padding:0 var(--spacing-md);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:var(--spacing-md)}.footer-bottom p{color:var(--text-dark);font-size:14px;margin:0}.footer-bottom-links{display:flex;gap:var(--spacing-lg)}.footer-bottom-links a{color:var(--text-dark);text-decoration:none;font-size:14px;transition:color var(--transition-standard)}.footer-bottom-links a:hover{color:var(--accent-color)}@media (max-width:768px){.footer-content{grid-template-columns:repeat(2,1fr);gap:var(--spacing-lg)}.footer-bottom-content{flex-direction:column;text-align:center}.footer-social-links{justify-content:center}.footer-bottom-links{gap:var(--spacing-md)}}@media (max-width:480px){.main-footer{padding:var(--spacing-lg) 0}.footer-section span{font-size:16px}.footer-social-links a{width:36px;height:36px;font-size:18px}.footer-bottom-links{flex-direction:column;gap:var(--spacing-sm)}}
+    <style>
+    .ad-container {
+        margin: 20px 0;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .ad-label {
+        font-size: 12px;
+        color: rgba(0,0,0,0.4);
+        margin-bottom: 8px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 500;
+    }
+    
+    /* Game Page Ad Positions */
+    .ad-container.ad-game_below {
+        margin: 15px 0;
+        background: rgba(0,0,0,0.02);
+        border-radius: 8px;
+    }
+    
+    .ad-container.ad-game_info_side {
+        margin: 0;
+        background: var(--secondary-bg, rgba(255,255,255,0.05));
+        border-radius: 12px;
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .ad-container.ad-game_tabs_side {
+        position: sticky;
+        top: 20px;
+        margin: 0;
+        background: var(--secondary-bg, rgba(255,255,255,0.05));
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+    }
+    
+    .ad-container.ad-game_sidebar {
+        margin: 20px 0;
+        background: var(--secondary-bg, rgba(255,255,255,0.05));
+        border-radius: 12px;
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    /* Other Pages Ad Positions */
+    .ad-container.ad-between_cards {
+        grid-column: 1 / -1;
+        margin: 30px 0;
+        padding: 20px;
+        background: rgba(0,0,0,0.02);
+        border-radius: 12px;
+        border: 2px dashed rgba(0,0,0,0.1);
+    }
+     border: 1px solid rgba(0,0,0,0.05);
+    }
+    
+    /* Size-specific styling */
+    .ad-size-720_90 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .ad-size-300_250 {
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .ad-size-300_600 {
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .game-main-content {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .game-header-sidebar {
+        flex-shrink: 0;
+    }
+    
+    /* Tabs layout with side ad */
+    .tabs-with-ad-container {
+        display: flex;
+        gap: 24px;
+        margin-top: 20px;
+    }
+    
+    .tabs-content-area {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .tabs-sidebar-ad {
+        flex-shrink: 0;
+    }
+    
+    /* Responsive Design */
+    @media (max-width: 1200px) {
+        
+        .game-header-sidebar {
+            width: 100%;
+            order: 1;
+        }
+        
+        .tabs-with-ad-container {
+            flex-direction: column;
+        }
+        
+        .tabs-sidebar-ad {
+            width: 100%;
+            order: -1;
+        }
+        
+        .ad-container.ad-game_tabs_side {
+            position: static;
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        
+        .ad-container.ad-between_cards {
+            margin: 20px 0;
+            padding: 15px;
+        }
+        
+        .ad-container.ad-between_categories {
+            margin: 25px 0;
+            padding: 15px;
+        }
+        
+        .ad-size-720_90,
+        .ad-size-300_600 {
+            max-width: 100%;
+        }
+    }
+    
+    /* Hide certain ads on very small screens */
+    @media (max-width: 480px) {
+        .ad-container.ad-game_info_side {
+            display: none;
+        }
+        
+        .tabs-sidebar-ad {
+            display: none;
+        }
+        
+        .ad-size-300_600 {
+            display: none;
+        }
+    }
+    
+    /* Ad content styling */
+    .ad-container > div:not(.ad-label),
+    .ad-container > script + div {
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease;
+    }
+    
+    .ad-container:hover > div:not(.ad-label) {
+        transform: scale(1.02);
+    }
+    
+    /* Loading placeholder */
+    .ad-placeholder {
+        background: linear-gradient(45deg, #f0f0f0 25%, transparent 25%), 
+                    linear-gradient(-45deg, #f0f0f0 25%, transparent 25%), 
+                    linear-gradient(45deg, transparent 75%, #f0f0f0 75%), 
+                    linear-gradient(-45deg, transparent 75%, #f0f0f0 75%);
+        background-size: 20px 20px;
+        background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+        color: #999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100px;
+        border-radius: 8px;
+        font-size: 14px;
+        width: 100%;
+        height: 100%;
+    }
+    </style></style>
+
+<!-- Dynamic Theme CSS -->
+<style>:root{--accent-color:#6842ff;--secondary-bg:#212233;--accent-alt-color:#a48eff;} </style>
+<!-- Resource Preloading -->
+<link rel="preload" href="https://tops.games/uploads/thumbnails/s/subway-surfers_medium.webp" as="image" fetchpriority="high">
+<link rel="preload" href="/images/control-icons-improved-v2.png" as="image">
+
+<!-- Webmaster Tools -->
+
+<!-- Analytics -->
+<script>
+window.addEventListener('load',function(){
+    const s=document.createElement('script');
+    s.async=true;
+    s.src='https://www.googletagmanager.com/gtag/js?id=G-RJKB7W6H34';
+    document.head.appendChild(s);
+    
+    s.onload=function(){
+        window.dataLayer=window.dataLayer||[];
+        function gtag(){dataLayer.push(arguments);}
+        
+        gtag('js',new Date());
+        gtag('config','G-RJKB7W6H34',{
+            page_title:'Subway Surfers - Play Free Online On Tops.Games',
+            page_location:'https://tops.games/game/subway-surfers',
+            send_page_view:true,
+            anonymize_ip:true
+        });
+        
+        const data={
+            page_type:'game',
+            site_section:'game'
+        };
+        
+                data.game_title='Subway Surfers';
+        data.game_category='Adventure';
+        data.game_views=1829;
+                
+        gtag('event','page_view',data);
+        
+        let start=Date.now();
+        window.addEventListener('beforeunload',function(){
+            const time=Math.round((Date.now()-start)/1000);
+            if(time>5){
+                gtag('event','user_engagement',{
+                    engagement_time_msec:time*1000,
+                    page_type:'game'
+                });
+            }
+        });
+    };
+});
+</script>
+
+<!-- Facebook Pixel -->
+
+<!-- DNS Prefetch -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+</head>
+
+<body>
+    <div class="page-container">
+        <!-- ===== Header ===== -->
+<header class="main-header">
+    <div class="header-left">
+        <button id="sidebar-toggle" class="icon-button" aria-label="Open/Close sidebar">
+            <svg viewBox="0 0 24 24">
+                <path d="M19 4C19.5523 4 20 3.55229 20 3C20 2.44772 19.5523 2 19 2L3 2C2.44772 2 2 2.44772 2 3C2 3.55228 2.44772 4 3 4L19 4ZM20.47 7.95628L15.3568 11.152C14.7301 11.5437 14.7301 12.4564 15.3568 12.848L20.47 16.0438C21.136 16.4601 22 15.9812 22 15.1958V8.80427C22 8.01884 21.136 7.54 20.47 7.95628ZM11 13C11.5523 13 12 12.5523 12 12C12 11.4477 11.5523 11 11 11L3 11C2.44771 11 2 11.4477 2 12C2 12.5523 2.44771 13 3 13L11 13ZM20 21C20 21.5523 19.5523 22 19 22L3 22C2.44771 22 2 21.5523 2 21C2 20.4477 2.44771 20 3 20L19 20C19.5523 20 20 20.4477 20 21Z"></path>
+            </svg>
+        </button>
+        <a href="/" class="logo">
+            <div class="logo-icon">
+                <img src="/favicon-48x48.png" 
+                    srcset="/favicon-48x48.webp 48w,
+                            /logo.webp 72w,
+                            /favicon-144x144.webp 144w"
+                    sizes="(max-width: 768px) 48px,
+                            (max-width: 1024px) 72px,
+                            144px"
+                    alt="Tops.Games Logo"
+                    width="48" 
+                    height="48">
+            </div>
+            <span class="logo-text">Tops.Games</span>
+        </a>
+    </div>
+    <form class="search-form" action="/search" method="GET">
+        <input id="search-input" 
+               name="q" 
+               class="search-input" 
+               placeholder="Search games..." 
+               value=""
+               autocomplete="off">
+        <div class="search-icon-wrapper">🔍</div>
+    </form>
+    <div class="header-right">
+        <!-- User account section -->
+            </div>
+    </header>
+<!-- ===== Sidebar ===== -->
+<nav id="sidebar" class="sidebar">
+    <div class="sidebar-scroll-container">
+        <!-- Home -->
+        <a href="/" class="sidebar-link ">
+            <span class="emoji-icon">🏠</span>
+            <span>Home</span>
+        </a>
+
+        <!-- Recently Played -->
+        <a href="/recently-played" class="sidebar-link " id="recentlyPlayedLink">
+            <span class="emoji-icon">🕐</span>
+            <span>Recently played</span>
+            <span class="recently-played-count"></span>
+        </a>
+
+        <!-- Favorites (if enabled) -->
+                    <a href="/favorites" class="sidebar-link " id="favoritesLink">
+                <span class="emoji-icon">❤️</span>
+                <span>Favorites <span class="favorites-count"></span></span>
+            </a>
+                
+        <!-- Random Game -->
+        <a href="/random" class="sidebar-link ">
+            <span class="emoji-icon">🎲</span>
+            <span>Random Game</span>
+        </a>
+
+        <!-- Dynamic System Tags -->
+                                    <a href="/t/new" class="sidebar-link " title="New Games" style="--tag-color: #10B981">
+            <span class="emoji-icon">🆕</span>
+            <span>New</span>
+        </a>                            <a href="/t/trending" class="sidebar-link " title="Trending Games" style="--tag-color: #F59E0B">
+            <span class="emoji-icon">📈</span>
+            <span>Trending</span>
+        </a>                            <a href="/t/featured" class="sidebar-link " title="Featured Games" style="--tag-color: #F59E0B">
+            <span class="emoji-icon">⭐</span>
+            <span>Featured</span>
+        </a>                    
+        <hr>
+        
+                                                    <a href="/c/sports"
+                    class="sidebar-link "
+                    title="Sports Games (38)">
+                    <span class="emoji-icon">⚽</span>
+                    <span>Sports</span>
+                    <span class="game-count">38</span>
+                </a>
+                                            <a href="/c/puzzle"
+                    class="sidebar-link "
+                    title="Puzzle Games (29)">
+                    <span class="emoji-icon">🧩</span>
+                    <span>Puzzle</span>
+                    <span class="game-count">29</span>
+                </a>
+                                            <a href="/c/clicker"
+                    class="sidebar-link "
+                    title="Clicker Games (14)">
+                    <span class="emoji-icon">👆</span>
+                    <span>Clicker</span>
+                    <span class="game-count">14</span>
+                </a>
+                                            <a href="/c/action"
+                    class="sidebar-link "
+                    title="Action Games (36)">
+                    <span class="emoji-icon">🚀</span>
+                    <span>Action</span>
+                    <span class="game-count">36</span>
+                </a>
+                                            <a href="/c/casual"
+                    class="sidebar-link "
+                    title="Casual Games (25)">
+                    <span class="emoji-icon">❤️</span>
+                    <span>Casual</span>
+                    <span class="game-count">25</span>
+                </a>
+                                            <a href="/c/skill"
+                    class="sidebar-link "
+                    title="Skill Games (20)">
+                    <span class="emoji-icon">🎯</span>
+                    <span>Skill</span>
+                    <span class="game-count">20</span>
+                </a>
+                                            <a href="/c/adventure"
+                    class="sidebar-link "
+                    title="Adventure Games (3)">
+                    <span class="emoji-icon">🧗‍♀️</span>
+                    <span>Adventure</span>
+                    <span class="game-count">3</span>
+                </a>
+                                            <a href="/c/arcade"
+                    class="sidebar-link "
+                    title="Arcade Games (15)">
+                    <span class="emoji-icon">🚀</span>
+                    <span>Arcade</span>
+                    <span class="game-count">15</span>
+                </a>
+                    
+        <hr>
+
+        <!-- Pages Section -->
+        <div class="sidebar-pages-section">
+            <a href="/page/contact" class="sidebar-link"><span class="emoji-icon">📧</span><span>Contact Us</span></a>        </div>
+
+        <hr>
+
+        <!-- Footer Links -->
+        <div class="sidebar-footer">
+            <div class="sidebar-extra-links">
+                <a href="/page/cookie-policy" class="">Cookie Policy</a><a href="/page/dmca" class="">DMCA</a><a href="/page/parental-guide" class="">Parental Guide</a><a href="/page/safety-tips" class="">Safety Tips</a><a href="/page/privacy-policy" class="">Privacy Policy</a><a href="/page/terms-of-service" class="">Terms of Service</a><a href="/page/about" class="">About Us</a>            </div>
+
+            <!-- Social Links -->
+            
+            
+            <div class="copyright-text">© 2025 Tops.Games</div>
+        </div>
+    </div>
+</nav>
+
+<!-- System Tags Styling -->
+<style>
+.sidebar-link[href='/t/new']:hover { background-color: #10B98115; border-left-color: #10B981; }
+.sidebar-link[href='/t/new'].active { background-color: #10B98120; border-left-color: #10B981; font-weight: 600; }
+.sidebar-link[href='/t/trending']:hover { background-color: #F59E0B15; border-left-color: #F59E0B; }
+.sidebar-link[href='/t/trending'].active { background-color: #F59E0B20; border-left-color: #F59E0B; font-weight: 600; }
+.sidebar-link[href='/t/featured']:hover { background-color: #F59E0B15; border-left-color: #F59E0B; }
+.sidebar-link[href='/t/featured'].active { background-color: #F59E0B20; border-left-color: #F59E0B; font-weight: 600; }
+</style>
+
+<!-- DEBUG: Active States (remove in production) -->
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Update favorites count
+        const updateFavoritesCount = () => {
+            const favorites = JSON.parse(localStorage.getItem('favorites') || '[]');
+            const countElement = document.querySelector('.favorites-count');
+            if (countElement && favorites.length > 0) {
+                countElement.textContent = `(${favorites.length})`;
+            } else if (countElement) {
+                countElement.textContent = '';
+            }
+        };
+
+        // Update recently played count
+        const updateRecentlyPlayedCount = () => {
+            const recentlyPlayed = JSON.parse(localStorage.getItem('recentlyPlayed') || '[]');
+            const countElement = document.querySelector('.recently-played-count');
+            if (countElement && recentlyPlayed.length > 0) {
+                countElement.textContent = `(${recentlyPlayed.length})`;
+            } else if (countElement) {
+                countElement.textContent = '';
+            }
+        };
+
+        // Initial updates
+        updateFavoritesCount();
+        updateRecentlyPlayedCount();
+
+        // Listen for changes
+        window.addEventListener('storage', function() {
+            updateFavoritesCount();
+            updateRecentlyPlayedCount();
+        });
+        
+        window.addEventListener('favoritesUpdated', updateFavoritesCount);
+        window.addEventListener('recentlyPlayedUpdated', updateRecentlyPlayedCount);
+    });
+</script>
+        <main class="content game-container">
+            <div class="game-main">
+                <!-- Game Player Section -->
+                <div class="game-wrapper ratio-1-1 preview-mode" id="gameWrapper">
+
+                    <!-- Game Preview Screen -->
+                    <div class="game-preview-screen" style="background-image: url('https://tops.games/uploads/thumbnails/s/subway-surfers_medium.webp');"></div>
+
+                    <div class="game-preview-overlay" id="gamePreviewOverlay" onclick="startGame()">
+                        <div class="game-preview-thumbnail">
+                            <picture class="game-thumbnail">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_small.avif 300w, https://tops.games/uploads/thumbnails/s/subway-surfers_medium.avif 400w" type="image/avif">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_small.webp 300w, https://tops.games/uploads/thumbnails/s/subway-surfers_medium.webp 400w" type="image/webp">
+  <img src="https://tops.games/uploads/thumbnails/s/subway-surfers_small.jpg"
+       srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_small.jpg 300w, https://tops.games/uploads/thumbnails/s/subway-surfers_medium.jpg 400w"
+       sizes="(max-width: 480px) 150px, (max-width: 768px) 200px, 300px"
+       alt="Play Subway Surfers"
+       width="300"
+       height="225"
+       class="responsive-game-image">
+</picture>                        </div>
+                        <span class="game-preview-title">Subway Surfers</span>
+                        <button class="game-preview-play-btn">Play Now</button>
+                    </div>
+
+                    <!-- Loading Screen -->
+                    <div class="game-loading" id="gameLoading" style="display: none;">
+                        <div class="game-loading-spinner"></div>
+                        <p>Loading Subway Surfers...</p>
+                    </div>
+
+                    <!-- Unity WebGL Loader -->
+                    
+                    <!-- Flash Fallback -->
+                    
+                    <!-- Game iframe -->
+                    <iframe
+                        id="gameFrame"
+                        class="game-iframe"
+                        title="Subway Surfers Game iframe"
+                        src=""
+                        data-src="https://tops.games/uploads/games/subway-surfers/index.html"
+                        data-game-type="zip"
+                        data-loader="iframe"
+                        allowfullscreen
+                        allow="autoplay; fullscreen; microphone"
+                        style="display: none;"></iframe>
+                </div>
+
+                <!-- Game Advertisement Below Player -->
+                <div class="game-below"><div class="ad-container ad-game_below ad-size-720_90"><div class="ad-label">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5649695140854182"
+     crossorigin="anonymous"></script>
+<!-- tops games 720x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5649695140854182"
+     data-ad-slot="8356651131"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+                <!-- Game Controls -->
+                <div class="game-controls">
+                    <div style="display: flex; gap: 8px;">
+                        <button class="control-button" id="playBtn" onclick="startGame()">
+                            <span>▶️</span> Play
+                        </button>
+                        <button class="control-button" id="fullscreenBtn" onclick="toggleFullscreen()">
+                            <span>⛶</span> Fullscreen
+                        </button>
+                        <button class="control-button" onclick="reloadGame()">
+                            <span>🔄</span> Restart
+                        </button>
+                    </div>
+                    <div style="display: flex; gap: 8px;">
+                        <button class="control-button" id="soundBtn" onclick="toggleSound()">
+                            <span>🔊</span> Sound
+                        </button>
+                        <button class="control-button" onclick="showQuickReportModal()">
+                            <span>⚠️</span> Report
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game Information -->
+                <div class="game-infos">
+                    <div class="game-main-content">
+                        <!-- Breadcrumbs -->
+                        <nav class="breadcrumb" aria-label="Breadcrumb"><ul class="breadcrumb-list"><li class="breadcrumb-item"><a href="/">Home</a> » </li><li class="breadcrumb-item"><a href="/c/adventure">Adventure</a> » </li><li class="breadcrumb-item"><span aria-current="page">Subway Surfers</span></li></ul></nav>                        <h1 class="game-title">Subway Surfers</h1>
+                        <div class="game-meta">
+                            <div class="game-meta-item">
+                                <span>🎮</span>
+                                <span>Adventure</span>
+                            </div>
+                            <div class="game-meta-item">
+                                <span>👁️</span>
+                                <span>1.8K plays</span>
+                            </div>
+                            <div class="game-meta-item rating-stars">
+                                <span class="star empty">★</span><span class="star empty">★</span><span class="star empty">★</span><span class="star empty">★</span><span class="star empty">★</span>                                <span style="margin-left: 6px;">0.0</span>
+                            </div>
+                        </div>
+                        <div class="game-actions">
+                            <button class="action-button" onclick="toggleFavorite()">
+                                <span id="favIcon">🤍</span>
+                                <span id="favText">Favorite</span>
+                            </button>
+                            <button class="action-button secondary" onclick="openShareModal()">
+                                <span>📤</span> Share
+                            </button>
+                        </div>
+
+                        <!-- Game Controls Display -->
+                                                    <div class="controls-grid">
+                                                                    <div class="control-items">
+                                        <div class="control-icon wasd"></div>
+                                        <div class="control-action">Move</div>
+                                    </div>
+                                                                    <div class="control-items">
+                                        <div class="control-icon arrow-keys"></div>
+                                        <div class="control-action">Move</div>
+                                    </div>
+                                                                    <div class="control-items">
+                                        <div class="control-icon space"></div>
+                                        <div class="control-action">Activate hoverboard</div>
+                                    </div>
+                                                            </div>
+                        
+                        <!-- Game Details -->
+                                                    <div class="game-details">
+<h2>Game Details</h2>
+
+<ul>
+	<li><strong>Technology:</strong> Unity</li>
+	<li><strong>Platforms:</strong> Mobile (iOS, Android), Browser</li>
+	<li><strong>Genre:</strong> Endless Runner</li>
+	<li><strong>Developer:</strong> Kiloo and SYBO Games</li>
+	<li><strong>Released:</strong> 2012</li>
+</ul>
+</div>                        
+                        <!-- Game Tags -->
+                                                    <div class="game-tags">
+                                                                    <a href="/t/new" class="game-tag">
+                                                                                    <span class="emoji">🆕</span>
+                                                                                New                                    </a>
+                                                                    <a href="/t/featured" class="game-tag">
+                                                                                    <span class="emoji">⭐</span>
+                                                                                Featured                                    </a>
+                                                                    <a href="/t/unblocked" class="game-tag">
+                                                                                    <span class="emoji">🔓</span>
+                                                                                Unblocked                                    </a>
+                                                                    <a href="/t/parkour" class="game-tag">
+                                                                                Parkour                                    </a>
+                                                                    <a href="/t/endless-runner" class="game-tag">
+                                                                                Endless Runner                                    </a>
+                                                                    <a href="/t/subway-surfers-online" class="game-tag">
+                                                                                Subway Surfers Online                                    </a>
+                                                                    <a href="/t/sybo-games" class="game-tag">
+                                                                                SYBO Games                                    </a>
+                                                                    <a href="/t/subway-surfers" class="game-tag">
+                                                                                Subway Surfers                                    </a>
+                                                                    <a href="/t/sybo" class="game-tag">
+                                                                                SYBO                                    </a>
+                                                                    <a href="/t/no-download-1" class="game-tag">
+                                                                                No-Download                                    </a>
+                                                                    <a href="/t/kids-game" class="game-tag">
+                                                                                Kids game                                    </a>
+                                                                    <a href="/t/mobile-compatible-1" class="game-tag">
+                                                                                Mobile-compatible                                    </a>
+                                                                    <a href="/t/free-browser-game" class="game-tag">
+                                                                                Free browser game                                    </a>
+                                                                    <a href="/t/action-game" class="game-tag">
+                                                                                Action game                                    </a>
+                                                                    <a href="/t/subway-surfers-tips" class="game-tag">
+                                                                                Subway surfers tips                                    </a>
+                                                                    <a href="/t/subway-surfers-multiplayer" class="game-tag">
+                                                                                Subway surfers multiplayer                                    </a>
+                                                                    <a href="/t/best-subway-surfers-character" class="game-tag">
+                                                                                Best subway surfers character                                    </a>
+                                                            </div>
+                                            </div>
+                    <div class="game-header-sidebar"><div class="ad-container ad-game_info_side ad-size-300_250"><div class="ad-label">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5649695140854182"
+     crossorigin="anonymous"></script>
+<!-- tops games 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5649695140854182"
+     data-ad-slot="8997980665"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>                </div>
+
+                <!-- Game Information Tabs -->
+                <div class="game-info">
+                    <!-- Tabs Navigation -->
+                    <div class="tabs">
+                        <button class="tab active" onclick="switchTab('description')">Description</button>
+                        <button class="tab" onclick="switchTab('instructions')">How to Play</button>
+                        <button class="tab" onclick="switchTab('comments')">
+                            Comments                         </button>
+                    </div>
+
+                    <div class="tabs-with-ad-container">
+                        <div class="tabs-content-area">
+                            <!-- Description Tab -->
+                            <div id="description-tab" class="tab-content active">
+                                <div class="game-description">
+                                    <p><strong>Play Subway Surfers Online for free</strong> and jump into fast action. Dodge trains. Grab coins. Beat your best score. The streets feel alive and bright. The pace feels smooth and fun. Kids can learn fast and try again.</p>
+
+<p>Subway Surfers runs on phones and computer. The game loads quick and clean. Controls feel simple and sharp. You swipe or tap and move. Runs grow longer with practice. Rewards feel fair and steady.</p>
+
+<p>Start on <a href="https://tops.games/t/subway-surfers">Subway Surfers</a> and play now. Try new cities each week. Share scores with friends. Visit <a href="https://tops.games/">Tops.Games</a> for more free hits. Easy access, no installs needed. Just click and surf.</p>
+
+<h2>The Evolution of Subway Surfers: From Mobile Phenomenon to Global Cultural Icon</h2>
+
+<h3>The Origins and Development Journey</h3>
+
+<p>Sybo Games launched Subway Surfers in 2012. The team mixed street art with speed. The core idea was simple. Run forever and dodge everything. It clicked with players fast. The style felt fresh and bold.</p>
+
+<h3>Global Expansion and Cultural Partnerships</h3>
+
+<p>New cities grew the world tour. Events mixed local music and art. Cities felt real and lively. Brands joined with in-game drops. Fans shared art and clips. The game crossed languages with ease.</p>
+
+<h3>Impact on the Endless Runner Genre</h3>
+
+<p>The game shaped the endless runner where others learned. Clear lanes set clean reads. Swipe timing taught rhythm play. Runs taught risk versus reward. Many runners copied the loop. Few matched the charm and polish.</p>
+
+<ol>
+	<li><strong>Note release roots:</strong> Mobile first, fast sessions.</li>
+	<li><strong>Watch art ties:</strong> Cities reflect real culture.</li>
+	<li><strong>Study lane design:</strong> It defines the genre feel.</li>
+	<li><strong>Track events:</strong> Learn how seasons guide play.</li>
+</ol>
+
+<h2>Advanced Physics Engine Optimization: Mastering Collision Detection and Movement Precision</h2>
+
+<h3>Understanding Frame-by-Frame Jump Mechanics</h3>
+
+<p>Jumps follow fixed frame arcs. Heights map to frame counts. Early swipe locks the arc. Late swipe shifts entry angle. Speed scales arc length. That alters landing lanes.</p>
+
+<h3>Optimizing Input Lag in Browser Environments</h3>
+
+<p>On computer, input delay can grow. Browser tabs and addons add lag. Set frame caps for steady timing. Lower resolution trims spikes. Keep focus on the game tab. That keeps input crisp.</p>
+
+<h3>Collision Detection Algorithms and Edge Cases</h3>
+
+<p>Hit checks use lane boxes. Edge brushes can still collide. Diagonal swipes cross two lanes. The engine snaps to one lane. Rail gaps read as narrow nodes. Snap timing decides a safe pass.</p>
+
+<ol>
+	<li><strong>Calibrate FPS:</strong> Use 60 FPS for stable arcs.</li>
+	<li><strong>Reduce lag:</strong> Close tabs and heavy apps.</li>
+	<li><strong>Buffer inputs:</strong> Swipe a hair earlier.</li>
+	<li><strong>Test edges:</strong> Practice pole and train sides.</li>
+	<li><strong>Record replays:</strong> Study frame starts and ends.</li>
+</ol>
+
+<h2>Character Selection Strategy: Maximizing Performance Through Avatar Mechanics</h2>
+
+<h3>Character Stats and Hidden Multiplier Effects</h3>
+
+<p>Base speed stays equal for all. Yet hitboxes can vary slightly. Some models feel slim and safe. Animations can change read clarity. Clear loops help lane views. That boosts long run safety.</p>
+
+<h3>Seasonal Characters and Exclusive Abilities</h3>
+
+<p>Event runners can add small perks. Some boost coin spread clarity. Others show power-up timers better. Outfits can change visual weight. Light gear improves focus. Heavy gear hides track hints.</p>
+
+<h3>Optimal Character Pairings for Different Playstyles</h3>
+
+<p>Score chasers prefer clean reads. Pick slim models with light skins. Coin hunters like bright outfits. They highlight lane pickups fast. Kids can pick bold colors. They track jumps more easily.</p>
+
+<ol>
+	<li><strong>Test visibility:</strong> Run each skin on dark tunnels.</li>
+	<li><strong>Check hit feel:</strong> Brush obstacles and learn space.</li>
+	<li><strong>Match goals:</strong> Score, coins, or missions.</li>
+	<li><strong>Use events:</strong> Try seasonal skins for clarity.</li>
+	<li><strong>Save favorites:</strong> Keep two skins ready.</li>
+</ol>
+
+<h2>Power-Up Synergy and Advanced Combo Systems: Expert Resource Management</h2>
+
+<h3>Multiplier Stacking and Exponential Score Calculation</h3>
+
+<p>Score grows with time and multipliers. Combos push growth fast. Letters raise the base multiplier. Boots and jetpacks chain gains. Planning stacks beats random grabs. Timing is the secret key.</p>
+
+<h3>Optimal Power-Up Sequencing for Maximum Efficiency</h3>
+
+<p>Jetpack creates clean coin lines. Magnet then doubles harvest power. Boots add height control windows. Double score multiplies the haul. Stack order affects return rates. Spread use for long runs.</p>
+
+<h3>Hoverboard Mechanics and Invulnerability Windows</h3>
+
+<p>Hoverboards give hit safety windows. Trigger on risky patterns. Their timer allows bold lines. Special boards add side effects. Double jump boards change arcs. Train boards dodge tight gaps.</p>
+
+<ol>
+	<li><strong>Prioritize stack:</strong> Jetpack, then Magnet, then Double Score.</li>
+	<li><strong>Delay boots:</strong> Use after speed bumps.</li>
+	<li><strong>Hover smart:</strong> Pop before blind corners.</li>
+	<li><strong>Chain boards:</strong> Bridge gaps between power-ups.</li>
+	<li><strong>Track timers:</strong> Count seconds in your head.</li>
+</ol>
+
+<h2>World Locations and Environmental Hazard Analysis: Navigating Global Cities</h2>
+
+<h3>Unique Obstacle Patterns Across Different Cities</h3>
+
+<p>City skins change hazard reads. Tunnels alter light cues. Station layouts shape lane traps. Bridges add sloped ramps. Trucks hide behind curves. You must learn each map.</p>
+
+<h3>Seasonal World Variations and Hidden Mechanics</h3>
+
+<p>Subway Surfers Hawaii brings beach vibes and bright rails. Surfers Hawaii 2023 tweaked surfboard spawns. Subway Surfers Singapore adds neon reflections. Subway Surfers Winter brings snow glare. Surfers winter holiday adds ice shine. That affects depth reads.</p>
+
+<h3>Environmental Adaptation Strategies for Each Location</h3>
+
+<p>Winter holiday skins reduce contrast. Choose bright outfits for tunnels. In Singapore, neon can mask coins. Use magnets to secure lines. In Hawaii, palm shadows shift lanes. Train timing feels different.</p>
+
+<ol>
+	<li><strong>Scout first:</strong> Run short test laps.</li>
+	<li><strong>Tweak skins:</strong> Pick high-contrast colors.</li>
+	<li><strong>Adjust sound:</strong> Use audio for train cues.</li>
+	<li><strong>Log patterns:</strong> Note tunnel and ramp spots.</li>
+	<li><strong>Practice exits:</strong> Memorize post-jetpack drops.</li>
+</ol>
+
+<h2>Competitive Scoring Techniques: Achieving World Records Through Precision Gameplay</h2>
+
+<h3>Frame-Perfect Timing and Micro-Adjustments</h3>
+
+<p>Top scores need tiny moves. Micro-swipes set lane centers. Pre-buffer jumps reduce miss risk. Late swaps cause glances. Set a steady rhythm. Let patterns guide hands.</p>
+
+<h3>Leaderboard Dynamics and Score Verification</h3>
+
+<p>Scores sync to server checkpoints. Long runs need clean data. Disconnections can drop progress. Keep stable network for safety. Verified scores track session logs. Clean play gets listed fast.</p>
+
+<h3>Advanced Grinding Techniques for Extended Runs</h3>
+
+<p>Take breaks during safe phases. Pause on menus often. Save keys for clutch revives. Keep hoverboards stocked up. Stretch hands between runs. Stay calm and focused.</p>
+
+<ol>
+	<li><strong>Warm up:</strong> Do three short practice runs.</li>
+	<li><strong>Set goals:</strong> Aim for clear milestones.</li>
+	<li><strong>Count lanes:</strong> Center on lane midpoints.</li>
+	<li><strong>Reserve keys:</strong> Use past 2 million marks.</li>
+	<li><strong>Record runs:</strong> Review mistakes and adjust.</li>
+</ol>
+
+<h2>Monetization Systems and In-Game Economy: Strategic Currency Management</h2>
+
+<h3>Coins vs. Keys: Optimal Spending Strategies</h3>
+
+<p>Coins fuel upgrades and boards. Keys handle revives and skins. Early players should save keys. Spend coins on score growth. Revives shift endgame runs. Plan spends by goals.</p>
+
+<h3>Mystery Box Probability Analysis and Expected Value</h3>
+
+<p>Boxes roll items by weight. Small odds grant rare parts. Daily boxes boost value. Streaks raise the chance rate. Track your drop history. Time openings for events.</p>
+
+<h3>Free-to-Play Progression Without Spending</h3>
+
+<p>Daily missions pay steady coins. Weekly hunts grow keys. Ads offer safe boosts. Events drop bonus boxes. Careful play beats pay walls. Pace your upgrades smartly.</p>
+
+<ol>
+	<li><strong>Upgrade first:</strong> Boost Magnet and Jetpack.</li>
+	<li><strong>Key policy:</strong> Save for high-score revives.</li>
+	<li><strong>Open daily:</strong> Claim free boxes on time.</li>
+	<li><strong>Chase events:</strong> Focus on reward tracks.</li>
+	<li><strong>Avoid waste:</strong> Skip low-value cosmetic buys early.</li>
+</ol>
+
+<h2>HTML5 Rendering Optimization: Technical Deep-Dive into Browser Performance</h2>
+
+<h3>WebGL vs. Canvas Rendering Performance Comparison</h3>
+
+<p>WebGL runs faster on modern GPUs. Canvas suits older rigs. WebGL supports rich effects. Canvas uses simpler draws. Choose based on your computer. Speed helps timing a lot.</p>
+
+<h3>Memory Management and Asset Streaming</h3>
+
+<p>Large texture sets can stutter. Stream assets on demand. Compress textures for load speed. Use sprite atlases for draws. Clear cache between sessions. That trims memory leaks.</p>
+
+<h3>Resolving Common Browser Compatibility Issues</h3>
+
+<p>Some browsers throttle background tabs. Keep the game focused. Hardware acceleration can break drivers. Update GPU drivers often. Input APIs differ by browser. Test which feels best.</p>
+
+<ol>
+	<li><strong>Pick engine:</strong> Try WebGL first, then Canvas fallback.</li>
+	<li><strong>Close apps:</strong> Free RAM for smoother frames.</li>
+	<li><strong>Set resolution:</strong> Lower scale for stability.</li>
+	<li><strong>Update drivers:</strong> Fix crashes and spikes.</li>
+	<li><strong>Use one tab:</strong> Reduce input delay on computer.</li>
+</ol>
+
+<h2>Multiplayer Mechanics and Social Features: Competing Against Friends Globally</h2>
+
+<h3>Real-Time Leaderboard Synchronization</h3>
+
+<p>Leaderboards sync by region and friends. Scores update in bursts. You may see slight delays. Keep runs online for sync. Daily ranks reset often. Watch the cutoff lines.</p>
+
+<h3>Challenge Modes and Cooperative Events</h3>
+
+<p>Timed challenges set short goals. Teams can pool scores. Co-op hunts share token finds. Milestones unlock group rewards. Weekends bring special rules. Try new lines and paths.</p>
+
+<h3>Social Integration and Friend Competition Systems</h3>
+
+<p>Add friends and share runs. Ghost scores spark rivalry. Gifts help new players grow. Kids enjoy safe friend races. Limits protect privacy well. Keep chats simple and kind.</p>
+
+<ol>
+	<li><strong>Add friends:</strong> Build a clean rival list.</li>
+	<li><strong>Set targets:</strong> Challenge gap numbers weekly.</li>
+	<li><strong>Share clips:</strong> Teach lines and timing.</li>
+	<li><strong>Join teams:</strong> Pool effort for rewards.</li>
+	<li><strong>Track resets:</strong> Push before weekly changes.</li>
+</ol>
+
+<h2>Psychological Game Design: Understanding Addiction Mechanics and Engagement Loops</h2>
+
+<h3>Variable Reward Schedules and Dopamine Triggers</h3>
+
+<p>Surprise boxes use variable timing. Wins feel strong and fresh. Coins sprinkle along safe lines. Sounds reward clean moves. Bright flashes mark success. Small joys stack up.</p>
+
+<h3>Progression Systems and Achievement Psychology</h3>
+
+<p>Missions give near-term goals. Streaks build gentle pressure. Letter hunts teach map flow. Outfits mark proud steps. Kids value visible progress. Each bar nudge feels good.</p>
+
+<h3>Retention Mechanics and Long-Term Engagement Strategies</h3>
+
+<p>Daily gifts form habits fast. Events add fresh spice. Rotating cities prevent burnout. Seasonal art resets mood. Social ranks create purpose. Players return for new tries.</p>
+
+<ol>
+	<li><strong>Set limits:</strong> Plan short daily sessions.</li>
+	<li><strong>Chase goals:</strong> Pick one mission at a time.</li>
+	<li><strong>Celebrate wins:</strong> Mark new best scores.</li>
+	<li><strong>Switch maps:</strong> Rotate cities to stay fresh.</li>
+	<li><strong>Play kind:</strong> Keep rivalry positive.</li>
+</ol>
+
+<p><strong>Ready to surf smarter and score big?</strong> Jump in now on <a href="https://tops.games/t/subway-surfers">Subway Surfers</a>. Play free on <a href="https://tops.games/">Tops.Games</a> today. Learn the lanes, stack power-ups, and enjoy the ride. Stay safe, stay sharp, and keep surfing.</p>
+
+<div class="game-comparison">
+<h2>Compare with Similar Games</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th scope="col">Game</th>
+			<th scope="col">Why Similar</th>
+		</tr>
+		<tr>
+			<th scope="row">Temple Run</th>
+			<td>Pioneering endless runner with similar parkour mechanics, obstacle avoidance, and power-up systems that influenced Subway Surfers&#39; design philosophy.</td>
+		</tr>
+		<tr>
+			<th scope="row">Jetpack Joyride</th>
+			<td>Endless runner featuring dynamic movement mechanics, collectible currency, character customization, and competitive leaderboards comparable to Subway Surfers.</td>
+		</tr>
+		<tr>
+			<th scope="row">Minion Rush</th>
+			<td>Licensed endless runner with similar gameplay mechanics, themed worlds, character variety, and seasonal events that mirror Subway Surfers&#39; content strategy.</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="content-section">
+<h2>🎯 Fun Facts About Subway Surfers</h2>
+
+<ul>
+	<li>Subway Surfers has been downloaded over 2 billion times across all platforms, making it one of the most successful mobile games ever created.</li>
+	<li>The game features monthly world updates tied to real-world locations and cultural events, including cities like Tokyo, Paris, New York, and seasonal celebrations.</li>
+	<li>Subway Surfers has partnered with major brands including McDonald&#39;s, Coca-Cola, and various entertainment franchises for exclusive limited-edition characters.</li>
+	<li>The game&#39;s protagonist Jake was inspired by street art culture and parkour athletes, reflecting the game&#39;s authentic urban aesthetic.</li>
+	<li>Sybo Games released Subway Surfers in 2012 during the height of the endless runner genre boom, but the game&#39;s superior design and consistent updates ensured its longevity.</li>
+	<li>The Inspector and his dog are the game&#39;s antagonists, chasing players throughout runs in a dynamic pursuit mechanic that increases tension.</li>
+</ul>
+</div>
+
+<div class="content-section">
+<h2>✨ Key Features of Subway Surfers</h2>
+
+<ul>
+	<li>Endless runner gameplay with dynamic parkour mechanics</li>
+	<li>Multiple themed worlds representing global cities</li>
+	<li>Diverse character roster with unique visual styles</li>
+	<li>Strategic power-up system with multiplier stacking</li>
+	<li>Global leaderboards and competitive scoring</li>
+	<li>Seasonal events and limited-edition content</li>
+</ul>
+</div>
+
+<div class="game-howto-section">
+<h2>How to Play Subway Surfers</h2>
+
+<div class="howto-step" id="step-1">
+<h3 class="step-name">Step 1: Access the Game</h3>
+
+<p class="step-text">Open your web browser and navigate to the Subway Surfers online platform. Ensure you have a stable internet connection and that your browser is updated to the latest version. The game loads automatically without requiring downloads or installations, making it instantly accessible from any device.</p>
+</div>
+
+<div class="howto-step" id="step-2">
+<h3 class="step-name">Step 2: Select Your Character</h3>
+
+<p class="step-text">Choose your preferred character from the available roster. Each character has unique visual styles and potential stat variations. Beginners should start with Jake or Tricky for balanced gameplay, while experienced players can experiment with characters offering specialized abilities.</p>
+</div>
+
+<div class="howto-step" id="step-3">
+<h3 class="step-name">Step 3: Master Basic Controls</h3>
+
+<p class="step-text">Learn the fundamental controls: use arrow keys or WASD to move left/right, spacebar to jump, and swipe gestures on mobile. Practice timing your jumps to avoid obstacles and trains. Spend your first few runs focusing on control mastery rather than score optimization.</p>
+</div>
+
+<div class="howto-step" id="step-4">
+<h3 class="step-name">Step 4: Collect Power-Ups Strategically</h3>
+
+<p class="step-text">Identify and prioritize power-ups during gameplay: grab multipliers first for score boosting, collect hoverboards for invulnerability, and use magnets to auto-collect coins. Understanding power-up locations and timing their collection maximizes your scoring potential significantly.</p>
+</div>
+
+<div class="howto-step" id="step-5">
+<h3 class="step-name">Step 5: Navigate Environmental Hazards</h3>
+
+<p class="step-text">Learn obstacle patterns specific to each world location. Trains appear predictably, barriers require precise jumping, and tunnels demand quick reflexes. Study each environment&#39;s unique challenges and develop location-specific strategies for consistent high-score runs.</p>
+</div>
+
+<div class="howto-step" id="step-6">
+<h3 class="step-name">Step 6: Manage Your Resources</h3>
+
+<p class="step-text">Accumulate coins through gameplay to unlock characters and cosmetics. Save premium keys for exclusive items or emergency revives. Balance spending on character unlocks with maintaining a reserve for special limited-time events and seasonal content.</p>
+</div>
+
+<div class="howto-step" id="step-7">
+<h3 class="step-name">Step 7: Compete on Leaderboards</h3>
+
+<p class="step-text">Submit your best scores to global and friend leaderboards. Track your progress against other players and identify areas for improvement. Participate in weekly challenges and special events for bonus rewards and competitive recognition.</p>
+</div>
+
+<div class="howto-step" id="step-8">
+<h3 class="step-name">Step 8: Optimize Your Gameplay</h3>
+
+<p class="step-text">Implement advanced techniques: practice frame-perfect jumps, master multiplier stacking, and develop location-specific strategies. Study top player techniques through community resources and continuously refine your approach for progressive score improvements.</p>
+</div>
+</div>
+
+<div class="game-faq-section">
+<h2>Subway Surfers FAQs</h2>
+
+<div class="faq-item" data-faq="1">
+<h3 class="faq-question">Is Subway Surfers safe for kids?</h3>
+
+<p class="faq-answer">Yes, Subway Surfers is rated for ages 4+ and contains no violence, profanity, or inappropriate content. The game features colorful graphics, cartoon-style characters, and family-friendly gameplay that appeals to children while remaining engaging for adults.</p>
+</div>
+
+<div class="faq-item" data-faq="2">
+<h3 class="faq-question">Can I play Subway Surfers offline?</h3>
+
+<p class="faq-answer">The browser version requires an internet connection for optimal performance, though some offline functionality may be available. Mobile versions offer limited offline play, but online connectivity is recommended for accessing leaderboards and events.</p>
+</div>
+
+<div class="faq-item" data-faq="3">
+<h3 class="faq-question">What are the best characters for beginners?</h3>
+
+<p class="faq-answer">Jake (the default character) and Tricky are excellent for beginners due to their balanced stats. These characters have no special abilities that complicate gameplay, allowing new players to focus on mastering core mechanics before exploring advanced character abilities.</p>
+</div>
+
+<div class="faq-item" data-faq="4">
+<h3 class="faq-question">How do I earn coins without spending money?</h3>
+
+<p class="faq-answer">Collect coins during gameplay runs, complete daily challenges, and participate in special events. Mystery boxes occasionally offer free coins, and consistent play with multiplier power-ups significantly increases coin accumulation without requiring purchases.</p>
+</div>
+
+<div class="faq-item" data-faq="5">
+<h3 class="faq-question">What&#39;s the difference between coins and keys?</h3>
+
+<p class="faq-answer">Coins are earned through gameplay and used for cosmetic purchases and character unlocks. Keys are premium currency obtained through spending real money or rare rewards, used for exclusive items and revives during runs.</p>
+</div>
+
+<div class="faq-item" data-faq="6">
+<h3 class="faq-question">How often do new worlds and characters release?</h3>
+
+<p class="faq-answer">Subway Surfers typically releases new themed worlds monthly, often tied to seasonal events, holidays, or cultural celebrations. New characters debut regularly alongside world updates, keeping the game fresh with limited-edition content.</p>
+</div>
+
+<div class="faq-item" data-faq="7">
+<h3 class="faq-question">Can I play Subway Surfers on any device?</h3>
+
+<p class="faq-answer">Yes, Subway Surfers is available on iOS, Android, and web browsers. The browser version works on Windows, Mac, and Linux computers, with optimized performance across most modern devices and screen sizes.</p>
+</div>
+
+<div class="faq-item" data-faq="8">
+<h3 class="faq-question">What causes lag in the browser version?</h3>
+
+<p class="faq-answer">Lag typically results from insufficient system resources, outdated browsers, or poor internet connections. Close unnecessary tabs, update your browser, and ensure stable internet connectivity for smooth gameplay performance.</p>
+</div>
+
+<div class="faq-item" data-faq="9">
+<h3 class="faq-question">Are there cheats or hacks available?</h3>
+
+<p class="faq-answer">While cheats exist, using them violates terms of service and risks account suspension. The game is designed for fair competition, and legitimate progression through skill development provides the most rewarding experience.</p>
+</div>
+
+<div class="faq-item" data-faq="10">
+<h3 class="faq-question">How do multiplier power-ups work?</h3>
+
+<p class="faq-answer">Multiplier power-ups increase your score by a set factor (2x, 3x, 5x, etc.) for a limited duration. Collecting multiple multipliers stacks their effects exponentially, dramatically boosting your final score during extended runs.</p>
+</div>
+
+<div class="faq-item" data-faq="11">
+<h3 class="faq-question">What&#39;s the highest possible score?</h3>
+
+<p class="faq-answer">Theoretically, scores are unlimited with perfect multiplier stacking and extended gameplay. Current world records exceed 2 billion points, achieved through advanced techniques, optimal character selection, and strategic power-up usage.</p>
+</div>
+
+<div class="faq-item" data-faq="12">
+<h3 class="faq-question">How do I unlock all characters?</h3>
+
+<p class="faq-answer">Characters unlock through coin purchases, special events, or limited-time offers. Some exclusive characters appear seasonally or through brand partnerships, requiring players to save coins or participate in timed events for access.</p>
+</div>
+</div>                                                                            <!-- Game Image Section -->
+                                        <div class="game-image-section">
+                                            <h3 class="section-title">
+                                                <i class="fas fa-play-circle"></i>
+                                                Subway Surfers Game Image
+                                            </h3>
+                                            <div class="image-container" id="game-image-container">
+                                                <picture class="game-image-large">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_medium.avif 400w, https://tops.games/uploads/thumbnails/s/subway-surfers_large.avif 600w, https://tops.games/uploads/thumbnails/s/subway-surfers_xlarge.avif 800w" type="image/avif">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_medium.webp 400w, https://tops.games/uploads/thumbnails/s/subway-surfers_large.webp 600w, https://tops.games/uploads/thumbnails/s/subway-surfers_xlarge.webp 800w" type="image/webp">
+  <img src="https://tops.games/uploads/thumbnails/s/subway-surfers_large.jpg"
+       srcset="https://tops.games/uploads/thumbnails/s/subway-surfers_medium.jpg 400w, https://tops.games/uploads/thumbnails/s/subway-surfers_large.jpg 600w, https://tops.games/uploads/thumbnails/s/subway-surfers_xlarge.jpg 800w"
+       sizes="(max-width: 480px) 300px, (max-width: 768px) 400px, (max-width: 1200px) 600px, 800px"
+       alt="Play Subway Surfers"
+       width="600"
+       height="450"
+       loading="lazy"
+       class="responsive-game-image">
+</picture>                                            </div>
+                                        </div>
+                                                                    </div>
+
+                                                            </div>
+
+                            <!-- Instructions Tab -->
+                            <div id="instructions-tab" class="tab-content">
+                                                                    <div class="game-controls-section">
+                                        <h3>Game Controls</h3>
+                                        <div class="controls-grid">
+                                                                                            <div class="control-item">
+                                                    <div class="control-icon wasd"></div>
+                                                    <div class="control-info">
+                                                        <div class="control-key">WASD Keys</div>
+                                                        <div class="control-action">Move</div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="control-item">
+                                                    <div class="control-icon arrow-keys"></div>
+                                                    <div class="control-info">
+                                                        <div class="control-key">Arrow Keys</div>
+                                                        <div class="control-action">Move</div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="control-item">
+                                                    <div class="control-icon space"></div>
+                                                    <div class="control-info">
+                                                        <div class="control-key">Space Bar</div>
+                                                        <div class="control-action">Activate hoverboard</div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+
+                            <!-- Comments Tab -->
+                            <div id="comments-tab" class="tab-content">
+                                <div class="comments-section">
+                                    <!-- Comment Form -->
+                                    <form class="comment-form" id="commentForm" onsubmit="submitComment(event)">
+                                        <h3 style="color: var(--text-light); margin-bottom: 16px;">💬 Leave a Comment</h3>
+
+                                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                                            <div class="form-group">
+                                                <label class="form-label">Name *</label>
+                                                <input type="text" name="name" class="form-control" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="form-label">Email (optional)</label>
+                                                <input type="email" name="email" class="form-control">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label class="form-label">Your Rating</label>
+                                            <div class="rating-input" id="ratingInput">
+                                                <span class="star" data-rating="1">★</span>
+                                                <span class="star" data-rating="2">★</span>
+                                                <span class="star" data-rating="3">★</span>
+                                                <span class="star" data-rating="4">★</span>
+                                                <span class="star" data-rating="5">★</span>
+                                            </div>
+                                            <input type="hidden" name="rating" id="ratingValue" value="0">
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label class="form-label">Comment *</label>
+                                            <textarea name="comment" class="form-control" required placeholder="Share your thoughts about this game..."></textarea>
+                                        </div>
+
+                                        <input type="hidden" name="game_id" value="161">
+                                        <input type="hidden" name="csrf_token" value="f6f9d704dbd8ac230bbf07abbb11d88f8ba8def671e9d35494165389cc25d4a3">
+                                        <button type="submit" class="action-button" style="width: auto;">
+                                            <span>📤</span> Post Comment
+                                        </button>
+                                    </form>
+
+                                    <!-- Comments List -->
+                                    <div class="comment-list">
+                                                                                    <p style="text-align: center; color: var(--text-dark); padding: 40px;">
+                                                No comments yet. Be the first to share your thoughts!
+                                            </p>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tabs-sidebar-ad"><div class="ad-container ad-game_tabs_side ad-size-300_600"><div class="ad-label">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5649695140854182"
+     crossorigin="anonymous"></script>
+<!-- tops games 300x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-5649695140854182"
+     data-ad-slot="7684898997"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>                    </div>
+                </div>
+            </div>
+
+            <!-- Game Sidebar -->
+            <aside class="game-sidebar">
+                <div class="game-sidebar"><div class="ad-container ad-game_sidebar ad-size-300_250"><div class="ad-label">Advertisement</div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5649695140854182"
+     crossorigin="anonymous"></script>
+<!-- tops games 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5649695140854182"
+     data-ad-slot="8997980665"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+                <!-- Game Statistics -->
+                <div class="sidebar-section">
+                    <h2 class="sidebar-title">
+                        <span>📊</span> Game Statistics
+                    </h2>
+                    <div class="game-stats-grid">
+                        <div class="stat-box">
+                            <span class="stat-value">1.8K</span>
+                            <span class="stat-label">Total Plays</span>
+                        </div>
+                        <div class="stat-box">
+                            <span class="stat-value">0.0⭐</span>
+                            <span class="stat-label">Rating</span>
+                        </div>
+                        <div class="stat-box">
+                            <span class="stat-value">0</span>
+                            <span class="stat-label">Votes</span>
+                        </div>
+                        <div class="stat-box">
+                            <span class="stat-value">0</span>
+                            <span class="stat-label">Comments</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Related Games -->
+                                    <div class="sidebar-section">
+                        <h2 class="sidebar-title">
+                            <span>🎯</span> Similar Games
+                        </h2>
+                        <div class="related-games-grid">
+                                                            <a href="/game/gta-simulator" class="related-game-item">
+                                    <div class="related-game-thumb">
+                                        <picture class="game-thumbnail">
+  <source srcset="https://tops.games/uploads/thumbnails/g/gta-simulator_small.avif 300w, https://tops.games/uploads/thumbnails/g/gta-simulator_medium.avif 400w" type="image/avif">
+  <source srcset="https://tops.games/uploads/thumbnails/g/gta-simulator_small.webp 300w, https://tops.games/uploads/thumbnails/g/gta-simulator_medium.webp 400w" type="image/webp">
+  <img src="https://tops.games/uploads/thumbnails/g/gta-simulator_small.jpg"
+       srcset="https://tops.games/uploads/thumbnails/g/gta-simulator_small.jpg 300w, https://tops.games/uploads/thumbnails/g/gta-simulator_medium.jpg 400w"
+       sizes="(max-width: 480px) 150px, (max-width: 768px) 200px, 300px"
+       alt="Play GTA Simulator"
+       width="300"
+       height="170"
+       loading="lazy"
+       class="responsive-game-image">
+</picture>                                    </div>
+                                    <div class="related-game-info">
+                                        <div class="related-game-title">GTA Simulator</div>
+                                        <div class="related-game-meta">
+                                            <span>👁️ 1.2K</span>
+                                            <span style="margin-left: 8px;">⭐ 0.0</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                                            <a href="/game/subway-surfers-london" class="related-game-item">
+                                    <div class="related-game-thumb">
+                                        <picture class="game-thumbnail">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers-london_small.avif 300w, https://tops.games/uploads/thumbnails/s/subway-surfers-london_medium.avif 400w" type="image/avif">
+  <source srcset="https://tops.games/uploads/thumbnails/s/subway-surfers-london_small.webp 300w, https://tops.games/uploads/thumbnails/s/subway-surfers-london_medium.webp 400w" type="image/webp">
+  <img src="https://tops.games/uploads/thumbnails/s/subway-surfers-london_small.jpg"
+       srcset="https://tops.games/uploads/thumbnails/s/subway-surfers-london_small.jpg 300w, https://tops.games/uploads/thumbnails/s/subway-surfers-london_medium.jpg 400w"
+       sizes="(max-width: 480px) 150px, (max-width: 768px) 200px, 300px"
+       alt="Play Subway Surfers London"
+       width="300"
+       height="225"
+       loading="lazy"
+       class="responsive-game-image">
+</picture>                                    </div>
+                                    <div class="related-game-info">
+                                        <div class="related-game-title">Subway Surfers London</div>
+                                        <div class="related-game-meta">
+                                            <span>👁️ 14</span>
+                                            <span style="margin-left: 8px;">⭐ 0.0</span>
+                                        </div>
+                                    </div>
+                                </a>
+                                                    </div>
+
+                        <a href="/c/adventure" class="action-button secondary" style="width: 100%; margin-top: 16px; justify-content: center;">
+                            View All Adventure Games
+                        </a>
+                    </div>
+                            </aside>
+        </main>
+
+        <!-- Footer Advertisement -->
+        
+        <!-- Share Modal -->
+        <div id="shareModal" class="share-modal">
+            <div class="share-content">
+                <button class="share-close" onclick="closeShareModal()">✕</button>
+                <h3 class="share-title">Share Subway Surfers</h3>
+                <div class="share-buttons">
+                    <a href="#" onclick="shareOn('facebook')" class="share-button">
+                        <span class="share-icon" style="color: #1877f2;">f</span>
+                        <span class="share-label">Facebook</span>
+                    </a>
+                    <a href="#" onclick="shareOn('twitter')" class="share-button">
+                        <span class="share-icon" style="color: #1da1f2;">𝕏</span>
+                        <span class="share-label">Twitter</span>
+                    </a>
+                    <a href="#" onclick="shareOn('whatsapp')" class="share-button">
+                        <span class="share-icon" style="color: #25d366;">💬</span>
+                        <span class="share-label">WhatsApp</span>
+                    </a>
+                    <a href="#" onclick="shareOn('reddit')" class="share-button">
+                        <span class="share-icon" style="color: #ff4500;">®</span>
+                        <span class="share-label">Reddit</span>
+                    </a>
+                    <a href="#" onclick="shareOn('telegram')" class="share-button">
+                        <span class="share-icon" style="color: #0088cc;">✈️</span>
+                        <span class="share-label">Telegram</span>
+                    </a>
+                    <a href="#" onclick="shareOn('copy')" class="share-button">
+                        <span class="share-icon">🔗</span>
+                        <span class="share-label">Copy Link</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Game loader configuration from PHP  
+        window.gameLoaderConfig = {"type":"zip","loader":"iframe","url":"https:\/\/tops.games\/uploads\/games\/subway-surfers\/index.html","title":"Subway Surfers","aspect_ratio":"1:1"};
+
+        // Load enhanced game system
+        let gameLoaded=!1,gameStarted=!1,isFullscreen=!1,isMuted=!1,selectedRating=0,startTime=Date.now(),gameData={};function initGameData(e){gameData=e}function initEnhancedGame(){const e=window.gameLoaderConfig;document.getElementById("gameFrame"),document.getElementById("gameWrapper");switch(e?.loader){case"unity_webgl":initUnityGame(e);break;case"flash":initFlashGame(e);break;default:initIframeGame(e)}}function initUnityGame(e){const t=document.getElementById("unityLoader"),n=document.getElementById("gameFrame");"undefined"!=typeof UnityLoader?(n.style.display="none",t.style.display="flex"):initIframeGame(e)}function initFlashGame(e){const t=document.getElementById("flashFallback"),n=document.getElementById("gameFrame");navigator.plugins&&navigator.plugins["Shockwave Flash"]?initIframeGame(e):(n.style.display="none",t&&(t.style.display="flex"))}function initIframeGame(e){const t=document.getElementById("gameFrame"),n=e?.url||t.dataset.src;n&&(t.src=n,t.style.display="block")}function addToRecentlyPlayed(e){if(!e)return;let t=JSON.parse(localStorage.getItem("recentlyPlayed")||"[]");t=t.filter((t=>t!==e)),t.unshift(e),t=t.slice(0,50),localStorage.setItem("recentlyPlayed",JSON.stringify(t)),window.dispatchEvent(new CustomEvent("recentlyPlayedUpdated",{detail:{games:t}}))}function startGame(){if(gameStarted)return;const e=document.getElementById("gameWrapper"),t=document.getElementById("gamePreviewOverlay"),n=document.querySelector(".game-preview-screen"),a=document.getElementById("gameFrame"),o=document.getElementById("gameLoading"),s=document.getElementById("playBtn");gameData&&gameData.slug&&addToRecentlyPlayed(gameData.slug),window.gameLoaderConfig&&Object.keys(window.gameLoaderConfig).length>0?(requestAnimationFrame((()=>{t&&(t.style.display="none"),n&&(n.style.display="none"),e&&e.classList.remove("preview-mode"),o&&(o.style.display="flex"),s&&(s.innerHTML="<span>⏸️</span> Playing",s.classList.add("active"))})),setTimeout((()=>{o&&(o.style.display="none"),initEnhancedGame(),gameStarted=!0,gameLoaded=!0,s&&(s.innerHTML="<span>⏸️</span> Pause",s.onclick=pauseGame),"undefined"!=typeof gtag&&gtag("event","game_start",{game_name:gameData.title,game_category:gameData.category,game_type:gameData.type||"unknown"})}),800)):(requestAnimationFrame((()=>{e&&e.classList.add("loading-game"),t&&(t.style.display="none"),n&&(n.style.display="none"),o&&(o.style.display="block"),s&&(s.innerHTML="<span>⏸️</span> Playing",s.classList.add("active"))})),setTimeout((()=>{requestAnimationFrame((()=>{a.src=a.dataset.src,a.style.display="block",o&&(o.style.display="none")})),gameStarted=!0,gameLoaded=!0,"undefined"!=typeof gtag&&gtag("event","game_start",{game_name:gameData.title,game_category:gameData.category})}),500))}function pauseGame(){const e=document.getElementById("playBtn");e&&(e.innerHTML="<span>▶️</span> Play",e.onclick=resumeGame);const t=document.getElementById("gameFrame");if(t&&t.contentWindow)try{t.contentWindow.postMessage({action:"pause"},"*")}catch(e){}}function resumeGame(){const e=document.getElementById("playBtn");e&&(e.innerHTML="<span>⏸️</span> Pause",e.onclick=pauseGame);const t=document.getElementById("gameFrame");if(t&&t.contentWindow)try{t.contentWindow.postMessage({action:"resume"},"*")}catch(e){}}function loadGame(){startGame()}function toggleFullscreen(){const e=document.getElementById("gameWrapper"),t=document.getElementById("fullscreenBtn");isFullscreen?(document.exitFullscreen?document.exitFullscreen():document.webkitExitFullscreen?document.webkitExitFullscreen():document.msExitFullscreen&&document.msExitFullscreen(),t&&(t.innerHTML="<span>⛶</span> Fullscreen"),isFullscreen=!1):(e.requestFullscreen?e.requestFullscreen().catch((e=>{})):e.webkitRequestFullscreen?e.webkitRequestFullscreen():e.msRequestFullscreen&&e.msRequestFullscreen(),t&&(t.innerHTML="<span>⛶</span> Exit Fullscreen"),isFullscreen=!0)}function reloadGame(){if(gameStarted){const e=document.getElementById("gameFrame"),t=window.gameLoaderConfig;t&&t.url?(e.src="",setTimeout((()=>{e.src=t.url}),100)):e.src=e.src}else startGame()}function toggleSound(){const e=document.getElementById("soundBtn");if(isMuted=!isMuted,isMuted?e&&(e.innerHTML="<span>🔇</span> Muted",e.classList.add("active")):e&&(e.innerHTML="<span>🔊</span> Sound",e.classList.remove("active")),gameStarted){const e=document.getElementById("gameFrame");if(e&&e.contentWindow)try{e.contentWindow.postMessage({action:"toggleSound",muted:isMuted},"*")}catch(e){}}}function reportIssue(){window.location.href=`/report?game=${gameData.slug}`}function showQuickReportModal(){const e=document.createElement("div");e.className="quick-report-modal",e.innerHTML=`\n    <div class="quick-report-content">\n      <button class="quick-report-close" onclick="closeQuickReport()">✕</button>\n      <h3>🚨 Quick Report</h3>\n      <p>What's wrong with "${gameData.title}"?</p>\n      <div class="quick-report-options">\n        <button onclick="quickReport('broken')" class="quick-report-btn">\n          🔧 Game Not Working\n        </button>\n        <button onclick="quickReport('inappropriate')" class="quick-report-btn">\n          ⚠️ Inappropriate Content\n        </button>\n        <button onclick="quickReport('spam')" class="quick-report-btn">\n          🚫 Spam/Low Quality\n        </button>\n        <button onclick="openFullReport()" class="quick-report-btn secondary">\n          📝 Detailed Report\n        </button>\n      </div>\n    </div>\n  `,document.body.appendChild(e),e.classList.add("active")}function quickReport(e){fetch("/api/report.php",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({reportable_type:"game",reportable_id:gameData.id,reason:e,description:{broken:"Game is not working properly",inappropriate:"Game contains inappropriate content",spam:"Game appears to be spam or low quality"}[e]+" (Quick report)",reporter_email:""})}).then((e=>e.json())).then((e=>{closeQuickReport(),e.success?alert("✅ "+e.message):alert("❌ "+e.message)})).catch((e=>{closeQuickReport(),alert("❌ Failed to submit report. Please try the detailed report page.")}))}function openFullReport(){closeQuickReport(),window.location.href=`/report?game=${gameData.slug}`}function closeQuickReport(){const e=document.querySelector(".quick-report-modal");e&&e.remove()}function switchTab(e){document.querySelectorAll(".tab-content").forEach((e=>{e.classList.remove("active")})),document.querySelectorAll(".tab").forEach((e=>{e.classList.remove("active")}));const t=document.getElementById(e+"-tab");t&&t.classList.add("active"),event&&event.target&&event.target.classList.add("active")}function toggleFavorite(){const e=document.getElementById("favIcon"),t=document.getElementById("favText");if(!e||!t)return;const n="❤️"===e.textContent;n?(e.textContent="🤍",t.textContent="Favorite"):(e.textContent="❤️",t.textContent="Favorited");const a=JSON.parse(localStorage.getItem("favorites")||"[]");if(n){const e=a.indexOf(gameData.slug);e>-1&&a.splice(e,1)}else a.push(gameData.slug);localStorage.setItem("favorites",JSON.stringify(a)),window.dispatchEvent(new Event("favoritesUpdated"))}function openShareModal(){const e=document.getElementById("shareModal");e&&e.classList.add("active")}function closeShareModal(){const e=document.getElementById("shareModal");e&&e.classList.remove("active")}function shareOn(e){const t=encodeURIComponent(window.location.href),n=encodeURIComponent(`${gameData.title} - Play Free Online`);let a="";switch(e){case"facebook":a=`https://www.facebook.com/sharer/sharer.php?u=${t}`;break;case"twitter":a=`https://twitter.com/intent/tweet?text=${n}&url=${t}`;break;case"whatsapp":a=`https://wa.me/?text=${n}%20${t}`;break;case"reddit":a=`https://reddit.com/submit?url=${t}&title=${n}`;break;case"telegram":a=`https://t.me/share/url?url=${t}&text=${n}`;break;case"copy":return navigator.clipboard.writeText(window.location.href).then((function(){alert("Link copied to clipboard!"),closeShareModal()})),!1}return a&&window.open(a,"_blank","width=600,height=400"),closeShareModal(),!1}function submitComment(e){e.preventDefault();const t=new FormData(e.target);fetch("/api/interactions_add.php",{method:"POST",body:t}).then((e=>e.json())).then((t=>{t.success?(alert(t.message||"Comment submitted successfully!"),e.target.reset(),selectedRating=0,document.querySelectorAll(".rating-input .star").forEach((e=>{e.classList.remove("selected"),e.style.color=""})),location.reload()):alert(t.message||"Failed to submit comment. Please try again.")})).catch((e=>{alert("An error occurred. Please try again.")}))}function initRatingSystem(){document.querySelectorAll(".rating-input .star").forEach((e=>{e.addEventListener("click",(function(){selectedRating=parseInt(this.dataset.rating);const e=document.getElementById("ratingValue");e&&(e.value=selectedRating),document.querySelectorAll(".rating-input .star").forEach(((e,t)=>{t<selectedRating?e.classList.add("selected"):e.classList.remove("selected")}))})),e.addEventListener("mouseenter",(function(){const e=parseInt(this.dataset.rating);document.querySelectorAll(".rating-input .star").forEach(((t,n)=>{t.style.color=n<e?"#fbbf24":""}))}))}));const e=document.querySelector(".rating-input");e&&e.addEventListener("mouseleave",(function(){document.querySelectorAll(".rating-input .star").forEach(((e,t)=>{e.style.color=t<selectedRating?"#fbbf24":""}))}))}function initModalEvents(){const e=document.getElementById("shareModal");e&&e.addEventListener("click",(function(e){e.target===this&&closeShareModal()})),document.addEventListener("keydown",(function(e){if("Escape"===e.key){const e=document.getElementById("shareModal");e&&e.classList.contains("active")&&closeShareModal()}}))}function initFavorites(){if(JSON.parse(localStorage.getItem("favorites")||"[]").includes(gameData.slug)){const e=document.getElementById("favIcon"),t=document.getElementById("favText");e&&(e.textContent="❤️"),t&&(t.textContent="Favorited")}}function initSessionTracking(){window.addEventListener("beforeunload",(function(){const e=Math.round((Date.now()-startTime)/1e3);"undefined"!=typeof gtag&&e>10&&gtag("event","game_session",{game_name:gameData.title,session_duration:e,game_type:gameData.type||"unknown"})}))}function debugRecentlyPlayed(){return JSON.parse(localStorage.getItem("recentlyPlayed")||"[]")}window.gameLoaderConfig=window.gameLoaderConfig||{},window.debugRecentlyPlayed=debugRecentlyPlayed,document.addEventListener("DOMContentLoaded",(function(){initRatingSystem(),initModalEvents()})),window.addEventListener("load",(function(){initFavorites(),initSessionTracking(),window.gameLoaderConfig}));
+        // Initialize game data
+        initGameData({
+            title: "Subway Surfers",
+            slug: "subway-surfers",
+            category: "Adventure",
+            type: "zip",
+            loader: "iframe"        });
+    </script>
+    <script>
+function loadYouTubeVideo(videoId) {
+    const wrapper = document.querySelector(`[data-video-id="${videoId}"]`);
+    const placeholder = wrapper.querySelector('.video-placeholder');
+    const container = wrapper.querySelector('.video-iframe-container');
+    
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`;
+    iframe.frameBorder = '0';
+    iframe.allowFullscreen = true;
+    iframe.className = 'game-video-iframe';
+    
+    container.appendChild(iframe);
+    placeholder.style.display = 'none';
+    container.style.display = 'block';
+    
+    if (typeof gtag !== 'undefined') {
+        gtag('event', 'video_play', {
+            event_category: 'Game',
+            event_label: 'Subway Surfers',
+            value: 1
+        });
+    }
+}
+</script>
+    <footer class="main-footer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <span>🎮 Tops.Games</span>
+            <p>Play the best free online games on Tops Games</p>
+            
+                        
+                    </div>
+        
+        <div class="footer-section">
+            <span>📄 Pages</span>
+            <div class="footer-links">
+                <a href="/page/cookie-policy" class="">Cookie Policy</a><a href="/page/dmca" class="">DMCA</a><a href="/page/parental-guide" class="">Parental Guide</a><a href="/page/safety-tips" class="">Safety Tips</a><a href="/page/privacy-policy" class="">Privacy Policy</a><a href="/page/terms-of-service" class="">Terms of Service</a><a href="/page/about" class="">About Us</a>            </div>
+        </div>
+        
+        <div class="footer-section">
+            <span>🎯 Quick Links</span>
+            <div class="footer-links">
+                <a href="/">Home</a>
+                <a href="/t/new">New Games</a>
+                <a href="/t/hot">Popular Games</a>
+                <a href="/t/top-rated">Top Rated</a>
+                            </div>
+        </div>
+        
+        <div class="footer-section">
+            <span>t</span>
+            <div class="footer-contact">
+                                <p></p>
+                                <p></p>
+                <a href="/page/contact" class="footer-contact-btn">Send Message</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer-bottom">
+        <div class="footer-bottom-content">
+            <p></p>
+            <div class="footer-bottom-links">
+                <a href="/page/privacy-policy">Privacy</a>
+                <a href="/page/terms-of-service">Terms</a>
+                                <a href="/sitemap.xml">Sitemap</a>
+                            </div>
+        </div>
+    </div>
+</footer>
+
+<script>document.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("sidebar"),t=document.getElementById("sidebar-toggle"),s=document.querySelector(".page-container");let i=0,n=0,a=0,o=!1,c=0,d=0;const r=()=>window.innerWidth<=768,l=()=>{s.classList.remove("sidebar-hidden"),s.classList.add("sidebar-open"),e.style.transform="",e.style.transition=""},h=()=>{s.classList.remove("sidebar-open"),s.classList.add("sidebar-hidden"),e.style.transform="",e.style.transition=""},u=t=>{if(!r())return;const n=t.touches[0];i=n.clientX,a=n.clientY,touchStartTime=Date.now();const l=i<=20&&s.classList.contains("sidebar-hidden"),h=e.getBoundingClientRect(),u=i>=h.left&&i<=h.right&&a>=h.top&&a<=h.bottom&&s.classList.contains("sidebar-open");(l||u)&&(o=!0,c=l?-e.offsetWidth:0,d=c,e.style.transition="none",l&&s.classList.add("edge-swipe-active"))},m=t=>{if(!o||!r())return;const n=t.touches[0],l=n.clientX-i,h=n.clientY-a;if(Math.abs(h)>Math.abs(l)&&Math.abs(h)>10)return void L();Math.abs(l)>10&&t.preventDefault();let u=c+l;u=(s.classList.contains("sidebar-hidden"),Math.max(-e.offsetWidth,Math.min(0,u))),d=u,e.style.transform=`translateX(${u}px)`;const m=Math.abs(u)/e.offsetWidth;b(1-m)},v=t=>{if(!o||!r())return;const s=Date.now()-touchStartTime,a=t.changedTouches[0];n=a.clientX;const c=n-i,u=Math.abs(c)/s>.3?c>0:d>-e.offsetWidth/2;e.style.transition="transform 0.3s ease-out",u?l():h(),setTimeout((()=>{e.style.transform="",e.style.transition=""}),300),L()},L=()=>{o=!1,s.classList.remove("edge-swipe-active"),b(s.classList.contains("sidebar-open")?1:0)},b=e=>{const t=document.querySelector(".sidebar-overlay");t&&(t.style.opacity=e)};if(e&&t&&s){t.addEventListener("click",(e=>{e.stopPropagation(),t.classList.add("touched"),setTimeout((()=>t.classList.remove("touched")),200),r()?s.classList.contains("sidebar-hidden")?l():h():s.classList.toggle("sidebar-hidden")})),e.addEventListener("mouseenter",(()=>{r()||s.classList.contains("sidebar-hidden")||s.classList.add("sidebar-open")})),e.addEventListener("mouseleave",(()=>{r()||s.classList.remove("sidebar-open")})),document.addEventListener("touchstart",u,{passive:!0}),document.addEventListener("touchmove",m,{passive:!1}),document.addEventListener("touchend",v,{passive:!0}),document.addEventListener("touchcancel",L,{passive:!0}),document.addEventListener("click",(e=>{e.target.classList.contains("sidebar-overlay")&&r()&&h()}));const i=document.createElement("button");i.className="sidebar-close-btn",i.innerHTML="✕",i.setAttribute("aria-label","Close sidebar"),e.insertBefore(i,e.firstChild),i.addEventListener("click",(()=>{r()&&h()}))}const f=document.createElement("div");let y;f.className="sidebar-overlay",s.appendChild(f),r()&&s.classList.add("sidebar-hidden"),window.addEventListener("resize",(function(){clearTimeout(y),y=setTimeout((function(){r()?s.classList.contains("sidebar-hidden")||(s.classList.add("sidebar-hidden"),s.classList.remove("sidebar-open")):(s.classList.remove("sidebar-hidden"),s.classList.remove("sidebar-open"),e.style.transform="",e.style.transition="")}),250)}));document.querySelectorAll(".game-carousel").forEach((e=>{const t=e.querySelector(".carousel-list"),s=e.querySelector(".right-arrow"),i=e.querySelector(".left-arrow");if(t&&s&&i){const e=()=>{const e=t.scrollLeft,n=t.scrollWidth-t.clientWidth;i.style.display=e>0?"flex":"none",s.style.display=e<n-1?"flex":"none"};e(),t.addEventListener("scroll",e),window.addEventListener("resize",e),s.addEventListener("click",(()=>{const e=.8*t.clientWidth;t.scrollBy({left:e,behavior:"smooth"})})),i.addEventListener("click",(()=>{const e=.8*t.clientWidth;t.scrollBy({left:-e,behavior:"smooth"})}))}}));const p=document.querySelectorAll(".faq-question");p.length>0&&p.forEach((e=>{e.addEventListener("click",(function(e){e.preventDefault();const t=this.nextElementSibling;this.classList.contains("active");p.forEach((e=>{if(e!==this){e.classList.remove("active");const t=e.nextElementSibling;t&&t.classList.remove("active")}})),this.classList.toggle("active"),t&&t.classList.toggle("active")}))}))}));</script></body>
+
+</html>
+
+
+
+
